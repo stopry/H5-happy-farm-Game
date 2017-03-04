@@ -64,7 +64,7 @@ var Seed = (function(){
             this.seed.getChildByName('seedLv4').visible = false;
         break;
         default:
-            this.seed.visible = false;
+            // this.seed.visible = false;
             this.seed.getChildByName('seedLv1').visible = false;
             this.seed.getChildByName('seedLv2').visible = false;
             this.seed.getChildByName('seedLv3').visible = false;

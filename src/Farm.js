@@ -89,9 +89,6 @@ var Farm = (function(_super){
             this.seed = new Seed(seedTemp,this.seedInfo[i].seedType,this.seedInfo[i].seedLevel,1,1,1,1);
             this.seeds.push(this.seed);
         }
-        this.seeds[0].type = 1;
-        this.seeds[0].level = 1;
-        this.seeds[0].loadSeed();
     }
     //初始化
     _proto.onLoadStatue = function(){
