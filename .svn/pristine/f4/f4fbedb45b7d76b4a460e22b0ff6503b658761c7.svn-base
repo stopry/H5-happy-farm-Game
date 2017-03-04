@@ -1,0 +1,67 @@
+//种子逻辑
+var Seed = (function(){
+    // params——种子-种子类型-等级-状态-是否成熟-是否被-土地等级
+    function Seed(seed,type,level,state,isRipe,isSteal,landLv){
+        this.seed = seed;
+        this.type = type;
+        this.level = level;
+        this.state = state;
+        this.isRipe = isRipe;
+        this.isSteal = isSteal;
+        this.loadSeed();
+    };
+    var _proto = Seed.prototype;
+    // 初始化种子
+    _proto.loadSeed = function(){
+        
+    }
+    //设置种子显示
+    _proto.setSeedUI = function(level){
+        switch(level)
+        {
+        case 1:
+            this.seed.getChildByName('seedLv1').visible = true;
+            this.seed.getChildByName('seedLv2').visible = false;
+            this.seed.getChildByName('seedLv3').visible = false;
+            this.seed.getChildByName('seedLv4').visible = false;
+            this.seed.getChildByName('seedLvDie').visible = false;
+        break;
+        case 2:
+            this.seed.getChildByName('seedLv2').visible = true;
+            this.seed.getChildByName('seedLv1').visible = false;
+            this.seed.getChildByName('seedLv3').visible = false;
+            this.seed.getChildByName('seedLv4').visible = false;
+            this.seed.getChildByName('seedLvDie').visible = false;
+        break;
+        case 2:
+            this.seed.getChildByName('seedLv3').visible = true;
+            this.seed.getChildByName('seedLv1').visible = false;
+            this.seed.getChildByName('seedLv2').visible = false;
+            this.seed.getChildByName('seedLv4').visible = false;
+            this.seed.getChildByName('seedLvDie').visible = false;
+        break;
+        case 2:
+            this.seed.getChildByName('seedLv4').visible = true;
+            this.seed.getChildByName('seedLv1').visible = false;
+            this.seed.getChildByName('seedLv2').visible = false;
+            this.seed.getChildByName('seedLv3').visible = false;
+            this.seed.getChildByName('seedLvDie').visible = false;
+        break;
+        case 2:
+            this.seed.getChildByName('seedLvDie').visible = true;
+            this.seed.getChildByName('seedLv1').visible = false;
+            this.seed.getChildByName('seedLv2').visible = false;
+            this.seed.getChildByName('seedLv3').visible = false;
+            this.seed.getChildByName('seedLv4').visible = false;
+        break;
+        default:
+            this.seed.visible = false;
+            this.seed.getChildByName('seedLv1').visible = false;
+            this.seed.getChildByName('seedLv2').visible = false;
+            this.seed.getChildByName('seedLv3').visible = false;
+            this.seed.getChildByName('seedLv4').visible = false;
+            this.seed.getChildByName('seedLvDie').visible = false;
+        }
+    }
+    return Seed;
+})()

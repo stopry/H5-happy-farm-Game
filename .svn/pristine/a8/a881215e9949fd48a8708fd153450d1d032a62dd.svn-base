@@ -1,0 +1,3 @@
+var LoadAni = (function(){
+    
+})(ui.LoadAniUI)

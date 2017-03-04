@@ -1,0 +1,48 @@
+//Farm类继承ui界面的FarmUI;
+var Farm = (function(_super){
+    function Farm(){
+        //存放土地的数组
+        this.lands = new Array;
+        //土地数量
+        this.landNum = 12;
+        Farm.super(this);
+        //循环数组
+        for(var i = 0;i<this.landNum;i++){
+            this.land = new Land(this.getChildByName("item"+i).getChildByName("land"),Math.round(Math.random()*2));
+            this.lands.push(this.land);
+        }
+        //我的家园大按钮添加事件
+        this.myHome.on(Laya.Event.CLICK,this,this.showMyfamMenu);
+        //我的家园子按钮默认状态为不显示
+        this.famlilyMune.isActive = false;
+        /*点击按钮反馈动画*/
+        this.clickEnd = function(){
+            Laya.timer.once(0,this,this.reset);
+        };
+        this.reset = function(){
+            Laya.Tween.to(this.myHome,{scaleY:1,scaleX:1},10,Laya.Ease.backIn,null);
+        }
+        /*点击按钮反馈动画*/
+        //添加宠物到农场
+        this.pet = new Pet(420,800);
+        this.addChild(this.pet);
+    }
+    //注册Farm类
+    Laya.class(Farm,"Farm",_super);
+    //定义变量接收Farm类原型
+    var _proto = Farm.prototype;
+    //显示我的家园子按钮
+    _proto.showMyfamMenu = function(){
+        if(!this.famlilyMune.isActive){
+            //Laya缓动动画——操作对新-属性列表-执行时间-动画效果-回调
+            Laya.Tween.to(this.famlilyMune,{rotation:0},300,Laya.Ease.backOut,null);
+        }else{
+            Laya.Tween.to(this.famlilyMune,{rotation:-100},300,Laya.Ease.backOut,null);
+        }
+        //重置状态
+        this.famlilyMune.isActive = !this.famlilyMune.isActive;
+        //按钮反馈动画
+        new BtnFeed(this.myHome,Laya.Handler.create(this,this.clickEnd));   
+    }
+    return Farm;
+})(ui.FarmUI)

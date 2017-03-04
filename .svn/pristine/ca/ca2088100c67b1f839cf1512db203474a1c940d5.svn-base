@@ -1,0 +1,94 @@
+//登录界面UI
+var LogIn = (function(_super){
+    //Laya Http对象
+    var HttpRequest = Laya.HttpRequest;
+    var hr;//全局http实例对象
+    var datas;//请求返回数据
+    function LogIn(){
+        LogIn.super(this);
+        //播放Loading动画
+        this.loading = new LoadAni();
+        this.loading.bgColor = "#ff0000";
+        this.addChild(this.loading);
+        this.loading.Loading.play(0,false);
+        Laya.timer.once(1500,this,this.removeLoadAni);
+        //登录事件
+        this.toLoad.on(Laya.Event.CLICK,this,this.logIn);
+        //显示界面时检测是否自动填充登录信息
+        this.autoInput();
+    };
+    Laya.class(LogIn,"LogIn",_super);
+    var _proto = LogIn.prototype;
+    //移除加载动画
+    _proto.removeLoadAni = function(){
+        this.removeChild(this.loading);
+    }
+    //登录
+    _proto.logIn = function(){
+        //账号
+        this.account = this.logTel.text;
+        //密码
+        this.password = this.logPwd.text;
+        if(!this.account){
+            alert("请输入账号");
+            return;
+        }else if(!this.password){
+            alert("请输入密码");
+            return;
+        }else{
+            if(this.account==13888888888&&this.password==123456){
+                console.log("登录成功");
+                this.remLogInInfo();
+                this.removeSelf();
+                if(!LayaSample.farm){
+                    LayaSample.farm = new Farm();
+                }
+                Laya.stage.addChild(LayaSample.farm);
+            }
+            this.sendDatas = JSON.stringify({account:this.account,password:this.password});
+            hr = new HttpRequest();
+            hr.once(Laya.Event.PROGRESS,this,this.onHtppRequestProgress);
+            hr.once(Laya.Event.COMPLETE,this,this.onHtppRequestComplete);
+            hr.once(Laya.Event.ERROR,this,this.onHttpRequestError);
+            //params——提交地址-提交数据-提交方法-提交类型
+            hr.send('#',this.sendDatas,'post','text');
+        }
+    }
+    //请求回调
+    //请求出错
+    _proto.onHttpRequestError = function(e){
+        console.log("请求出错"+e);
+    }
+    //请求过程
+    _proto.onHtppRequestProgress = function(e){
+        console.log("请求进行中"+e)
+    }
+    //请求完成
+    _proto.onHtppRequestComplete = function(e){
+        datas = hr.data;
+        console.log(datas);
+    }
+    //记住登录信息 
+    _proto.remLogInInfo = function(){
+        //是否记住账号
+        this.isRemAct = this.remAcut.selected;
+        //是否记住密码
+        this.isRemPwd = this.remPwd.selected;
+        //账号密码存储到本地
+        if(this.isRemAct) localStorage.setItem("act",this.account);
+        if(this.isRemPwd) localStorage.setItem("pwd",this.password);
+        //从本地移除账号密码
+        if(!this.isRemAct&&localStorage.getItem("act")) localStorage.removeItem("act");
+        if(!this.isRemPwd&&localStorage.getItem("pwd")) localStorage.removeItem("pwd");
+    }
+    //将密码填充至对应input
+    _proto.autoInput = function(){
+        if(localStorage.getItem("act")){
+            this.logTel.text = localStorage.getItem("act");
+        }
+        if(localStorage.getItem("pwd")){
+            this.logPwd.text = localStorage.getItem("pwd");
+        }
+    }
+    return LogIn;
+})(ui.LogInUI)

@@ -1,0 +1,8 @@
+var RankList = (function(_super){
+    function RankList(){
+        RankList.super(this);
+    }
+    Laya.class(RankList,"RankList",_super);
+    var _proto = RankList.prototype;
+    return RankList;
+})(ui.RankListUI)

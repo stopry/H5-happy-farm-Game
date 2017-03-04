@@ -1,0 +1,9 @@
+//按钮点击反馈类
+var BtnFeed = (function(){
+    // params——操作对象
+    function BtnFeed(obj,backEdHd){
+        this.obj = obj;
+        Laya.Tween.to(this.obj,{scaleY:1.05,scaleX:1.05},100,Laya.Ease.backOut,backEdHd);
+    }
+    return BtnFeed;
+})()

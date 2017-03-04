@@ -1,0 +1,10 @@
+//数据操作模块
+var Service = (function(ser){
+    ser = ser||function(){};
+    var pro = ser.prototype;
+    //得到材料数据
+    pro.material = function(){
+        return Datas.material;
+    }
+    return new ser;
+})(Service)

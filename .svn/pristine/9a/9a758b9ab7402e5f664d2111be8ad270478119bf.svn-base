@@ -1,0 +1,117 @@
+{
+    "frames": {
+        "dialogBg.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 74,
+                "h": 77,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 74,
+                "h": 77
+            },
+            "sourceSize": {
+                "w": 74,
+                "h": 77
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "tableActive.png": {
+            "frame": {
+                "x": 0,
+                "y": 79,
+                "w": 105,
+                "h": 47,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 105,
+                "h": 47
+            },
+            "sourceSize": {
+                "w": 105,
+                "h": 47
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "bigBtn.png": {
+            "frame": {
+                "x": 76,
+                "y": 0,
+                "w": 91,
+                "h": 47,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 91,
+                "h": 47
+            },
+            "sourceSize": {
+                "w": 91,
+                "h": 47
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "rank_list_home.png": {
+            "frame": {
+                "x": 107,
+                "y": 49,
+                "w": 62,
+                "h": 60,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 62,
+                "h": 60
+            },
+            "sourceSize": {
+                "w": 62,
+                "h": 60
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "tableNormal.png": {
+            "frame": {
+                "x": 0,
+                "y": 128,
+                "w": 88,
+                "h": 40,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 40
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 40
+            },
+            "rotated": false,
+            "trimed": false
+        }
+    },
+    "meta": {
+        "app": "http:\/\/www.layabox.com",
+        "version": "0.1.0 alpha",
+        "format": "json",
+        "scale": 1,
+        "image": "dialog.png",
+        "prefix": "dialog\/"
+    }
+}

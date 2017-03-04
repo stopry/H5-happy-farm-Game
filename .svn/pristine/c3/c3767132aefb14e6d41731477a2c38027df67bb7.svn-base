@@ -1,0 +1,21 @@
+//好友列表逻辑类
+var FriendList = (function(){
+    // params——弹出层-弹出层标题-关闭按钮-列表项-List对象
+    function FriendList(alertBox,title,closeBtn,arrayList,List){
+        this.alertBox = alertBox;
+        this.title = title;
+        this.closeBtn = closeBtn;
+        this.arrayList = arrayList;
+        this.isVisible = false;
+        this.List = List;
+        //给列表赋值
+        this.List.array = this.List;
+        this.closeBtn.on(Laya.Event.CLICK,this,this.closeDialog);
+    }
+    var _proto = FriendList.prototype;
+    //关闭弹出层
+    _proto.closeDialog = function(){
+        this.alertBox.visible = false;
+    }
+    return FriendList;
+})()

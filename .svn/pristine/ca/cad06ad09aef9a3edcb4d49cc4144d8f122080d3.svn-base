@@ -1,0 +1,8 @@
+//好友农场UI
+var FriendsFarm = (function(_super){
+    function FriendsFarm(){
+        FriendsFarm.super(this);
+    }
+    Laya.class(FriendsFarm,"FriendsFarm",_super);
+    var _proto = FriendsFarm.prototype;
+})(ui.FriendsFarmUI)

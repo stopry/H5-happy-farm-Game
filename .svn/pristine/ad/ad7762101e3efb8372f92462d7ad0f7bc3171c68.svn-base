@@ -1,0 +1,10 @@
+//登录界面UI
+var LogIn = (function(_super){
+    function LogIn(){
+        LogIn.super(this);
+    };
+    Laya.class(LogIn,"LogIn",_super);
+    var _proto = LogIn.prototype;
+    
+    return LogIn;
+})(ui.LogInUI)

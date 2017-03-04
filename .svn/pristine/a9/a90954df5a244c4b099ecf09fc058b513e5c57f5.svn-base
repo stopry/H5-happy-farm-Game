@@ -1,0 +1,151 @@
+var CLASS$=Laya.class;
+var STATICATTR$=Laya.static;
+var View=laya.ui.View;
+var Dialog=laya.ui.Dialog;
+var FarmUI=(function(_super){
+		function FarmUI(){
+			
+		    this.seed0=null;
+		    this.seed1=null;
+		    this.seed2=null;
+		    this.seed3=null;
+		    this.seed4=null;
+		    this.seed5=null;
+		    this.seed6=null;
+		    this.seed7=null;
+		    this.seed8=null;
+		    this.seed9=null;
+		    this.seed10=null;
+		    this.seed11=null;
+		    this.statue=null;
+		    this.fence=null;
+		    this.myHouse=null;
+		    this.petHouse=null;
+		    this.myHome=null;
+		    this.myOrchard=null;
+		    this.famlilyMune=null;
+		    this.friendBtn=null;
+		    this.friendListBox=null;
+		    this.m_list=null;
+		    this.statueDespBox=null;
+		    this.status1Desp=null;
+		    this.status2Desp=null;
+		    this.status3Desp=null;
+		    this.status4Desp=null;
+
+			FarmUI.__super.call(this);
+		}
+
+		CLASS$(FarmUI,'ui.FarmUI',_super);
+		var __proto__=FarmUI.prototype;
+		__proto__.createChildren=function(){
+		    			View.regComponent("ui.PetUI",ui.PetUI);
+			View.regComponent("Text",laya.display.Text);
+
+			laya.ui.Component.prototype.createChildren.call(this);
+			this.createView(FarmUI.uiView);
+		}
+
+		STATICATTR$(FarmUI,
+		['uiView',function(){return this.uiView={"type":"View","props":{"width":640,"name":"render","height":1024},"child":[{"type":"Image","props":{"y":0,"x":0,"skin":"ui/ground13.jpg"}},{"type":"Box","props":{"y":515,"x":180,"name":"item0"},"child":[{"type":"Image","props":{"skin":"ui/land-1.png","name":"land"}},{"type":"Box","props":{"y":-32,"x":35,"var":"seed0","name":"seed0"},"child":[{"type":"Image","props":{"y":63,"x":29,"skin":"ui/seed_1_1.png","name":"seedLv1"}},{"type":"Image","props":{"y":42,"x":24,"skin":"ui/seed_1_2.png","name":"seedLv2"}},{"type":"Image","props":{"x":10,"skin":"ui/seed_1_3.png","name":"seedLv3"}},{"type":"Image","props":{"y":8,"skin":"ui/seed_1_4.png","name":"seedLv4"}},{"type":"Image","props":{"y":38,"skin":"ui/seed_1_5.png","name":"seedDie"}}]}]},{"type":"Box","props":{"y":565,"x":95,"name":"item1"},"child":[{"type":"Image","props":{"skin":"ui/land-1.png","name":"land"}},{"type":"Box","props":{"y":-35,"x":36,"var":"seed1","name":"seed1"},"child":[{"type":"Image","props":{"y":70,"x":27,"skin":"ui/seed_1_1.png","name":"seedLv1"}},{"type":"Image","props":{"y":49,"x":22,"skin":"ui/seed_1_2.png","name":"seedLv2"}},{"type":"Image","props":{"y":7,"x":8,"skin":"ui/seed_1_3.png","name":"seedLv3"}},{"type":"Image","props":{"y":15,"x":-2,"skin":"ui/seed_1_4.png","name":"seedLv4"}},{"type":"Image","props":{"y":45,"x":-2,"skin":"ui/seed_1_5.png","name":"seedDie"}}]}]},{"type":"Box","props":{"y":617,"x":7,"name":"item2"},"child":[{"type":"Image","props":{"skin":"ui/land-1.png","name":"land"}},{"type":"Box","props":{"y":-38,"x":33,"var":"seed2","name":"seed2"},"child":[{"type":"Image","props":{"y":70,"x":27,"skin":"ui/seed_1_1.png","name":"seedLv1"}},{"type":"Image","props":{"y":49,"x":22,"skin":"ui/seed_1_2.png","name":"seedLv2"}},{"type":"Image","props":{"y":7,"x":8,"skin":"ui/seed_1_3.png","name":"seedLv3"}},{"type":"Image","props":{"y":15,"x":-2,"skin":"ui/seed_1_4.png","name":"seedLv4"}},{"type":"Image","props":{"y":45,"x":-2,"skin":"ui/seed_1_5.png","name":"seedDie"}}]}]},{"type":"Box","props":{"y":562,"x":270,"name":"item3"},"child":[{"type":"Image","props":{"skin":"ui/land-1.png","name":"land"}},{"type":"Box","props":{"y":-36,"x":39,"var":"seed3","name":"seed3"},"child":[{"type":"Image","props":{"y":70,"x":27,"skin":"ui/seed_1_1.png","name":"seedLv1"}},{"type":"Image","props":{"y":49,"x":22,"skin":"ui/seed_1_2.png","name":"seedLv2"}},{"type":"Image","props":{"y":7,"x":8,"skin":"ui/seed_1_3.png","name":"seedLv3"}},{"type":"Image","props":{"y":15,"x":-2,"skin":"ui/seed_1_4.png","name":"seedLv4"}},{"type":"Image","props":{"y":45,"x":-2,"skin":"ui/seed_1_5.png","name":"seedDie"}}]}]},{"type":"Box","props":{"y":612,"x":185,"name":"item4"},"child":[{"type":"Image","props":{"skin":"ui/land-1.png","name":"land"}},{"type":"Box","props":{"y":-39,"x":39,"var":"seed4","name":"seed4"},"child":[{"type":"Image","props":{"y":70,"x":27,"skin":"ui/seed_1_1.png","name":"seedLv1"}},{"type":"Image","props":{"y":49,"x":22,"skin":"ui/seed_1_2.png","name":"seedLv2"}},{"type":"Image","props":{"y":7,"x":8,"skin":"ui/seed_1_3.png","name":"seedLv3"}},{"type":"Image","props":{"y":15,"x":-2,"skin":"ui/seed_1_4.png","name":"seedLv4"}},{"type":"Image","props":{"y":45,"x":-2,"skin":"ui/seed_1_5.png","name":"seedDie"}}]}]},{"type":"Box","props":{"y":662,"x":95,"name":"item5"},"child":[{"type":"Image","props":{"skin":"ui/land-1.png","name":"land"}},{"type":"Box","props":{"y":-41,"x":33,"var":"seed5","name":"seed5"},"child":[{"type":"Image","props":{"y":70,"x":27,"skin":"ui/seed_1_1.png","name":"seedLv1"}},{"type":"Image","props":{"y":49,"x":22,"skin":"ui/seed_1_2.png","name":"seedLv2"}},{"type":"Image","props":{"y":7,"x":8,"skin":"ui/seed_1_3.png","name":"seedLv3"}},{"type":"Image","props":{"y":15,"x":-2,"skin":"ui/seed_1_4.png","name":"seedLv4"}},{"type":"Image","props":{"y":45,"x":-2,"skin":"ui/seed_1_5.png","name":"seedDie"}}]}]},{"type":"Box","props":{"y":610,"x":364,"name":"item6"},"child":[{"type":"Image","props":{"skin":"ui/land-1.png","name":"land"}},{"type":"Box","props":{"y":-37,"x":36,"var":"seed6","name":"seed6"},"child":[{"type":"Image","props":{"y":70,"x":27,"skin":"ui/seed_1_1.png","name":"seedLv1"}},{"type":"Image","props":{"y":49,"x":22,"skin":"ui/seed_1_2.png","name":"seedLv2"}},{"type":"Image","props":{"y":7,"x":8,"skin":"ui/seed_1_3.png","name":"seedLv3"}},{"type":"Image","props":{"y":15,"x":-2,"skin":"ui/seed_1_4.png","name":"seedLv4"}},{"type":"Image","props":{"y":45,"x":-2,"skin":"ui/seed_1_5.png","name":"seedDie"}}]}]},{"type":"Box","props":{"y":662,"x":275,"name":"item7"},"child":[{"type":"Image","props":{"skin":"ui/land-1.png","name":"land"}},{"type":"Box","props":{"y":-42,"x":34,"var":"seed7","name":"seed7"},"child":[{"type":"Image","props":{"y":70,"x":27,"skin":"ui/seed_1_1.png","name":"seedLv1"}},{"type":"Image","props":{"y":49,"x":22,"skin":"ui/seed_1_2.png","name":"seedLv2"}},{"type":"Image","props":{"y":7,"x":8,"skin":"ui/seed_1_3.png","name":"seedLv3"}},{"type":"Image","props":{"y":15,"x":-2,"skin":"ui/seed_1_4.png","name":"seedLv4"}},{"type":"Image","props":{"y":45,"x":-2,"skin":"ui/seed_1_5.png","name":"seedDie"}}]}]},{"type":"Box","props":{"y":710,"x":189,"name":"item8"},"child":[{"type":"Image","props":{"skin":"ui/land-1.png","name":"land"}},{"type":"Box","props":{"y":-42,"x":35,"var":"seed8","name":"seed8"},"child":[{"type":"Image","props":{"y":70,"x":27,"skin":"ui/seed_1_1.png","name":"seedLv1"}},{"type":"Image","props":{"y":49,"x":22,"skin":"ui/seed_1_2.png","name":"seedLv2"}},{"type":"Image","props":{"y":7,"x":8,"skin":"ui/seed_1_3.png","name":"seedLv3"}},{"type":"Image","props":{"y":15,"x":-2,"skin":"ui/seed_1_4.png","name":"seedLv4"}},{"type":"Image","props":{"y":45,"x":-2,"skin":"ui/seed_1_5.png","name":"seedDie"}}]}]},{"type":"Box","props":{"y":657,"x":455,"name":"item9"},"child":[{"type":"Image","props":{"skin":"ui/land-1.png","name":"land"}},{"type":"Box","props":{"y":-38,"x":35,"var":"seed9","name":"seed9"},"child":[{"type":"Image","props":{"y":70,"x":27,"skin":"ui/seed_1_1.png","name":"seedLv1"}},{"type":"Image","props":{"y":49,"x":22,"skin":"ui/seed_1_2.png","name":"seedLv2"}},{"type":"Image","props":{"y":7,"x":8,"skin":"ui/seed_1_3.png","name":"seedLv3"}},{"type":"Image","props":{"y":15,"x":-2,"skin":"ui/seed_1_4.png","name":"seedLv4"}},{"type":"Image","props":{"y":45,"x":-2,"skin":"ui/seed_1_5.png","name":"seedDie"}}]}]},{"type":"Box","props":{"y":708,"x":369,"name":"item10"},"child":[{"type":"Image","props":{"skin":"ui/land-1.png","name":"land"}},{"type":"Box","props":{"y":-39,"x":35,"var":"seed10","name":"seed10"},"child":[{"type":"Image","props":{"y":70,"x":27,"skin":"ui/seed_1_1.png","name":"seedLv1"}},{"type":"Image","props":{"y":49,"x":22,"skin":"ui/seed_1_2.png","name":"seedLv2"}},{"type":"Image","props":{"y":7,"x":8,"skin":"ui/seed_1_3.png","name":"seedLv3"}},{"type":"Image","props":{"y":15,"x":-2,"skin":"ui/seed_1_4.png","name":"seedLv4"}},{"type":"Image","props":{"y":45,"x":-2,"skin":"ui/seed_1_5.png","name":"seedDie"}}]}]},{"type":"Box","props":{"y":760,"x":283,"name":"item11"},"child":[{"type":"Image","props":{"skin":"ui/land-1.png","name":"land"}},{"type":"Box","props":{"y":-37,"x":32,"var":"seed11","name":"seed11"},"child":[{"type":"Image","props":{"y":70,"x":27,"skin":"ui/seed_1_1.png","name":"seedLv1"}},{"type":"Image","props":{"y":49,"x":22,"skin":"ui/seed_1_2.png","name":"seedLv2"}},{"type":"Image","props":{"y":7,"x":8,"skin":"ui/seed_1_3.png","name":"seedLv3"}},{"type":"Image","props":{"y":15,"x":-2,"skin":"ui/seed_1_4.png","name":"seedLv4"}},{"type":"Image","props":{"y":45,"x":-2,"skin":"ui/seed_1_5.png","name":"seedDie"}}]}]},{"type":"Box","props":{"y":379,"x":1,"var":"statue"},"child":[{"type":"Image","props":{"y":78,"skin":"ui/statue_1_0.png","name":"statue_1"}},{"type":"Image","props":{"y":48,"x":72,"skin":"ui/statue_2_0.png","name":"statue_2"}},{"type":"Image","props":{"y":39,"x":138,"skin":"ui/statue_3_0.png","name":"statue_3"}},{"type":"Image","props":{"y":6,"x":186,"skin":"ui/statue_4_0.png","name":"statue_4"}}]},{"type":"Box","props":{"y":396,"x":0,"var":"fence"},"child":[{"type":"Image","props":{"y":60,"x":192,"skin":"ui/fence11_0.png","name":"fence1"}},{"type":"Image","props":{"y":291,"skin":"ui/fence13_1.png","name":"fence2"}}]},{"type":"Image","props":{"y":258,"x":274,"var":"myHouse","skin":"ui/myHouse.png"}},{"type":"Image","props":{"y":391,"x":506,"var":"petHouse","skin":"ui/petHouse.png"}},{"type":"Pet","props":{"y":440,"x":436,"runtime":"ui.PetUI"}},{"type":"Image","props":{"y":887,"x":487,"var":"myHome","skin":"ui/menu_04.png"}},{"type":"Image","props":{"y":887,"x":11,"var":"myOrchard","skin":"ui/menu_05.png"}},{"type":"List","props":{"y":1020,"x":637,"width":276,"var":"famlilyMune","rotation":-100,"pivotY":258.57142857142856,"pivotX":277.1428571428573,"height":259},"child":[{"type":"Image","props":{"y":3,"x":187,"skin":"ui/menu_39.png","name":"shop"}},{"type":"Image","props":{"x":85,"skin":"ui/menu_21.png","name":"entrepot"}},{"type":"Image","props":{"y":66,"skin":"ui/menu_09.png","name":"exchange"}},{"type":"Image","props":{"y":155,"x":3,"skin":"ui/menu_07.png","name":"decorate"}}]},{"type":"Image","props":{"y":414,"x":596,"var":"friendBtn","skin":"ui/friends.png"}},{"type":"Box","props":{"y":329,"x":139,"width":375,"visible":false,"var":"friendListBox","height":331},"child":[{"type":"Image","props":{"y":-1,"x":-77,"width":517,"skin":"ui/common_a_01.png","height":351}},{"type":"Label","props":{"y":17,"x":22,"width":323,"valign":"middle","text":"好友列表","name":"listTitle","height":34,"fontSize":24,"font":"Microsoft YaHei","color":"#ffffff","align":"center"}},{"type":"List","props":{"y":85,"x":2,"width":375,"var":"m_list","spaceY":2,"repeatY":6,"repeatX":1,"name":"itemList","height":214},"child":[{"type":"Box","props":{"x":21,"width":327,"top":40,"name":"render","height":65},"child":[{"type":"Label","props":{"y":7,"x":3,"width":319,"valign":"middle","text":"label","overflow":"hidden","name":"m_label","height":49,"fontSize":20,"font":"Microsoft YaHei","bgColor":"#c5c5c5"}}]},{"type":"VScrollBar","props":{"y":44,"x":366,"width":17,"skin":"ui/vscroll.png","pivotY":45.45454545454544,"pivotX":12.727272727272748,"name":"scrollBar","height":374}}]},{"type":"Image","props":{"y":7,"x":330,"width":59,"skin":"ui/common_a_40.png","name":"closeThis","height":53}}]},{"type":"Box","props":{"y":326,"x":127,"var":"statueDespBox"},"child":[{"type":"Box","props":{"y":81,"x":-1,"width":247,"var":"status1Desp","scaleY":0,"scaleX":0,"name":"status1Desp","height":147,"anchorY":0.5,"anchorX":0.5},"child":[{"type":"Image","props":{"width":247,"skin":"ui/common_a_08.png","sizeGrid":"16,19,15,20","height":147}},{"type":"Label","props":{"y":9,"x":14,"width":171,"text":"弑草之神(未激活)","name":"title","height":29,"fontSize":18,"font":"Microsoft YaHei","color":"#1b841b","bold":false}},{"type":"Text","props":{"y":34,"x":14,"wordWrap":true,"width":180,"text":"供奉弑草之神,可保护土地上的作物,不受杂草之害","name":"despCon","height":46,"fontSize":"16","font":"Microsoft YaHei","color":"#4c4c4c"}},{"type":"Label","props":{"y":81,"x":17,"width":96,"text":"神像未激活","name":"isActive","height":26,"fontSize":16,"font":"Microsoft YaHei","color":"#0b510e"}},{"type":"Image","props":{"y":116,"x":14,"skin":"ui/common_a_17.png"}},{"type":"ProgressBar","props":{"y":119,"x":42,"skin":"ui/progress_time.png","scaleY":0.5,"scaleX":0.6,"name":"activeProgress"}}]},{"type":"Box","props":{"y":59,"width":247,"var":"status2Desp","scaleY":0,"scaleX":0,"name":"status2Desp","height":147,"anchorY":0.5,"anchorX":0.5},"child":[{"type":"Image","props":{"width":247,"skin":"ui/common_a_08.png","sizeGrid":"16,19,15,20","height":147}},{"type":"Label","props":{"y":9,"x":14,"width":171,"text":"屠虫之神(未激活)","name":"title","height":29,"fontSize":18,"font":"Microsoft YaHei","color":"#1b841b","bold":false}},{"type":"Text","props":{"y":34,"x":14,"wordWrap":true,"width":180,"text":"供奉屠虫之神,可保护土地上的作物,不受害虫之坏","name":"despCon","height":46,"fontSize":"16","font":"Microsoft YaHei","color":"#4c4c4c"}},{"type":"Label","props":{"y":81,"x":17,"width":96,"text":"神像未激活","name":"isActive","height":26,"fontSize":16,"font":"Microsoft YaHei","color":"#0b510e"}},{"type":"Image","props":{"y":116,"x":14,"skin":"ui/common_a_17.png"}},{"type":"ProgressBar","props":{"y":119,"x":42,"skin":"ui/progress_time.png","scaleY":0.5,"scaleX":0.6,"name":"activeProgress"}}]},{"type":"Box","props":{"y":30,"x":39,"width":247,"var":"status3Desp","scaleY":0,"scaleX":0,"name":"status3Desp","height":147,"anchorY":0.5,"anchorX":0.5},"child":[{"type":"Image","props":{"width":247,"skin":"ui/common_a_08.png","sizeGrid":"16,19,15,20","height":147}},{"type":"Label","props":{"y":9,"x":14,"width":171,"text":"雨露之神(未激活)","name":"title","height":29,"fontSize":18,"font":"Microsoft YaHei","color":"#1b841b","bold":false}},{"type":"Text","props":{"y":34,"x":14,"wordWrap":true,"width":180,"text":"供奉雨露之神,可保护土地上的作物,不受干旱之伤","name":"despCon","height":46,"fontSize":"16","font":"Microsoft YaHei","color":"#4c4c4c"}},{"type":"Label","props":{"y":81,"x":17,"width":96,"text":"神像未激活","name":"isActive","height":26,"fontSize":16,"font":"Microsoft YaHei","color":"#0b510e"}},{"type":"Image","props":{"y":116,"x":14,"skin":"ui/common_a_17.png"}},{"type":"ProgressBar","props":{"y":119,"x":42,"skin":"ui/progress_time.png","scaleY":0.5,"scaleX":0.6,"name":"activeProgress"}}]},{"type":"Box","props":{"x":105,"width":247,"var":"status4Desp","scaleY":0,"scaleX":0,"name":"status4Desp","height":147,"anchorY":0.5,"anchorX":0.5},"child":[{"type":"Image","props":{"width":247,"skin":"ui/common_a_08.png","sizeGrid":"16,19,15,20","height":147}},{"type":"Label","props":{"y":9,"x":14,"width":171,"text":"丰收之神(未激活)","name":"title","height":29,"fontSize":18,"font":"Microsoft YaHei","color":"#1b841b","bold":false}},{"type":"Text","props":{"y":34,"x":14,"wordWrap":true,"width":180,"text":"供奉丰收之神,可保护土地上的作物,获得没有灾害的最大收益","name":"despCon","height":46,"fontSize":"16","font":"Microsoft YaHei","color":"#4c4c4c"}},{"type":"Label","props":{"y":87,"x":14,"width":96,"text":"神像未激活","name":"isActive","height":26,"fontSize":16,"font":"Microsoft YaHei","color":"#0b510e"}},{"type":"Image","props":{"y":116,"x":14,"skin":"ui/common_a_17.png"}},{"type":"ProgressBar","props":{"y":119,"x":42,"skin":"ui/progress_time.png","scaleY":0.5,"scaleX":0.6,"name":"activeProgress"}}]}]}]};}
+		]);
+		return FarmUI;
+	})(View);
+var FriendsFarmUI=(function(_super){
+		function FriendsFarmUI(){
+			
+		    this.fence=null;
+		    this.myHouse=null;
+		    this.petHouse=null;
+		    this.friendInfoLabel=null;
+		    this.backPrePage=null;
+
+			FriendsFarmUI.__super.call(this);
+		}
+
+		CLASS$(FriendsFarmUI,'ui.FriendsFarmUI',_super);
+		var __proto__=FriendsFarmUI.prototype;
+		__proto__.createChildren=function(){
+		    			View.regComponent("ui.PetUI",ui.PetUI);
+
+			laya.ui.Component.prototype.createChildren.call(this);
+			this.createView(FriendsFarmUI.uiView);
+		}
+
+		STATICATTR$(FriendsFarmUI,
+		['uiView',function(){return this.uiView={"type":"View","props":{"width":640,"name":"render","height":1024},"child":[{"type":"Image","props":{"y":0,"x":0,"skin":"ui/ground13.jpg"}},{"type":"Box","props":{"y":515,"x":180,"name":"item0"},"child":[{"type":"Image","props":{"skin":"ui/land-1.png","name":"land"}}]},{"type":"Box","props":{"y":565,"x":95,"name":"item1"},"child":[{"type":"Image","props":{"skin":"ui/land-1.png","name":"land"}}]},{"type":"Box","props":{"y":617,"x":7,"name":"item2"},"child":[{"type":"Image","props":{"skin":"ui/land-1.png","name":"land"}}]},{"type":"Box","props":{"y":562,"x":270,"name":"item3"},"child":[{"type":"Image","props":{"skin":"ui/land-1.png","name":"land"}}]},{"type":"Box","props":{"y":612,"x":185,"name":"item4"},"child":[{"type":"Image","props":{"skin":"ui/land-1.png","name":"land"}}]},{"type":"Box","props":{"y":662,"x":95,"name":"item5"},"child":[{"type":"Image","props":{"skin":"ui/land-1.png","name":"land"}}]},{"type":"Box","props":{"y":610,"x":364,"name":"item6"},"child":[{"type":"Image","props":{"skin":"ui/land-1.png","name":"land"}}]},{"type":"Box","props":{"y":662,"x":275,"name":"item7"},"child":[{"type":"Image","props":{"skin":"ui/land-1.png","name":"land"}}]},{"type":"Box","props":{"y":710,"x":189,"name":"item8"},"child":[{"type":"Image","props":{"skin":"ui/land-1.png","name":"land"}}]},{"type":"Box","props":{"y":657,"x":455,"name":"item9"},"child":[{"type":"Image","props":{"skin":"ui/land-1.png","name":"land"}}]},{"type":"Box","props":{"y":708,"x":369,"name":"item10"},"child":[{"type":"Image","props":{"skin":"ui/land-1.png","name":"land"}}]},{"type":"Box","props":{"y":760,"x":283,"name":"item11"},"child":[{"type":"Image","props":{"skin":"ui/land-1.png","name":"land"}}]},{"type":"Box","props":{"y":396,"x":0,"var":"fence"},"child":[{"type":"Image","props":{"y":60,"x":192,"skin":"ui/fence11_0.png","name":"fence1"}},{"type":"Image","props":{"y":291,"skin":"ui/fence13_1.png","name":"fence2"}}]},{"type":"Image","props":{"y":287,"x":309,"var":"myHouse","skin":"ui/myHouse.png"}},{"type":"Image","props":{"y":409,"x":481,"var":"petHouse","skin":"ui/petHouse.png"}},{"type":"Pet","props":{"y":507,"x":508,"width":132,"pivotY":70,"pivotX":73,"height":132,"runtime":"ui.PetUI"}},{"type":"Label","props":{"y":153,"x":203,"wordWrap":true,"width":217,"var":"friendInfoLabel","valign":"middle","height":80,"fontSize":16,"font":"Microsoft YaHei","color":"#000000","bold":true,"bgColor":"#cccccc","align":"center"}},{"type":"Image","props":{"y":111,"x":24,"var":"backPrePage","skin":"ui/common_a_21.png"}}]};}
+		]);
+		return FriendsFarmUI;
+	})(View);
+var LoadAniUI=(function(_super){
+		function LoadAniUI(){
+			
+		    this.Loading=null;
+
+			LoadAniUI.__super.call(this);
+		}
+
+		CLASS$(LoadAniUI,'ui.LoadAniUI',_super);
+		var __proto__=LoadAniUI.prototype;
+		__proto__.createChildren=function(){
+		    
+			laya.ui.Component.prototype.createChildren.call(this);
+			this.createView(LoadAniUI.uiView);
+		}
+
+		STATICATTR$(LoadAniUI,
+		['uiView',function(){return this.uiView={"type":"View","props":{"width":640,"skin":"ui/building_02.png","sizeGrid":"32,79,29,108","height":1024},"child":[{"type":"Image","props":{"y":-64,"x":-51,"width":760,"skin":"ui/building_02.png","sizeGrid":"32,79,29,108","height":1145},"compId":6},{"type":"Image","props":{"y":460,"x":14,"skin":"ui/icon_94.png"},"compId":2},{"type":"Image","props":{"y":462,"x":586,"skin":"ui/icon_94.png"},"compId":3},{"type":"Image","props":{"y":50,"x":57,"skin":"ui/login_title.png"},"compId":4}],"animations":[{"nodes":[{"target":2,"keyframes":{"y":[{"value":460,"tweenMethod":"linearNone","tween":true,"target":2,"key":"y","index":0},{"value":456,"tweenMethod":"linearNone","tween":true,"target":2,"key":"y","index":5}],"x":[{"value":14,"tweenMethod":"linearNone","tween":true,"target":2,"key":"x","index":0},{"value":266,"tweenMethod":"linearNone","tween":true,"target":2,"key":"x","index":5}],"var":[{"value":"waterMalen","tweenMethod":"linearNone","tween":false,"target":2,"key":"var","index":0}],"alpha":[{"value":0,"tweenMethod":"linearNone","tween":true,"target":2,"key":"alpha","index":0},{"value":1,"tweenMethod":"linearNone","tween":true,"target":2,"key":"alpha","index":5},{"value":0,"tweenMethod":"linearNone","tween":true,"target":2,"key":"alpha","index":8}]}},{"target":3,"keyframes":{"y":[{"value":462,"tweenMethod":"linearNone","tween":true,"target":3,"key":"y","index":0},{"value":456,"tweenMethod":"linearNone","tween":true,"target":3,"key":"y","index":5}],"x":[{"value":586,"tweenMethod":"linearNone","tween":true,"target":3,"key":"x","index":0},{"value":323,"tweenMethod":"linearNone","tween":true,"target":3,"key":"x","index":5}],"var":[{"value":"waterMalen2","tweenMethod":"linearNone","tween":false,"target":3,"key":"var","index":0}],"alpha":[{"value":0,"tweenMethod":"linearNone","tween":true,"target":3,"key":"alpha","index":0},{"value":1,"tweenMethod":"linearNone","tween":true,"target":3,"key":"alpha","index":5},{"value":0,"tweenMethod":"linearNone","tween":true,"target":3,"key":"alpha","index":8}]}},{"target":4,"keyframes":{"y":[{"value":198,"tweenMethod":"linearNone","tween":true,"target":4,"key":"y","index":0},{"value":480,"tweenMethod":"linearNone","tween":true,"target":4,"key":"y","index":12}],"x":[{"value":322,"tweenMethod":"linearNone","tween":true,"target":4,"key":"x","index":0},{"value":325,"tweenMethod":"linearNone","tween":true,"target":4,"key":"x","index":12}],"var":[{"value":"loadTitle","tweenMethod":"linearNone","tween":false,"target":4,"key":"var","index":0}],"scaleY":[{"value":0.2,"tweenMethod":"linearNone","tween":true,"target":4,"key":"scaleY","index":0},{"value":1,"tweenMethod":"linearNone","tween":true,"target":4,"key":"scaleY","index":20}],"scaleX":[{"value":0.2,"tweenMethod":"linearNone","tween":true,"target":4,"key":"scaleX","index":0},{"value":1,"tweenMethod":"linearNone","tween":true,"target":4,"key":"scaleX","index":20}],"anchorY":[{"value":0.5,"tweenMethod":"linearNone","tween":true,"target":4,"key":"anchorY","index":0}],"anchorX":[{"value":0.5,"tweenMethod":"linearNone","tween":true,"target":4,"key":"anchorX","index":0}],"alpha":[{"value":0,"tweenMethod":"linearNone","tween":true,"target":4,"key":"alpha","index":0},{"value":0.2,"tweenMethod":"linearNone","tween":true,"target":4,"key":"alpha","index":8},{"value":0.8,"tweenMethod":"linearNone","tween":true,"target":4,"key":"alpha","index":12},{"value":1,"tweenMethod":"linearNone","tween":true,"target":4,"key":"alpha","index":20}]}},{"target":6,"keyframes":{"y":[{"value":-64,"tweenMethod":"linearNone","tween":true,"target":6,"key":"y","index":0},{"value":-67,"tweenMethod":"linearNone","tween":true,"target":6,"key":"y","index":20}],"x":[{"value":-51,"tweenMethod":"linearNone","tween":true,"target":6,"key":"x","index":0},{"value":-46,"tweenMethod":"linearNone","tween":true,"target":6,"key":"x","index":20}]}}],"name":"Loading","id":1,"frameRate":24,"action":0}]};}
+		]);
+		return LoadAniUI;
+	})(View);
+var LogInUI=(function(_super){
+		function LogInUI(){
+			
+		    this.logInBg=null;
+		    this.formBg=null;
+		    this.logTel=null;
+		    this.logPwd=null;
+		    this.toLoad=null;
+		    this.toRegist=null;
+		    this.forgetPwd=null;
+		    this.isRemAct=null;
+		    this.remAcut=null;
+		    this.remPwd=null;
+
+			LogInUI.__super.call(this);
+		}
+
+		CLASS$(LogInUI,'ui.LogInUI',_super);
+		var __proto__=LogInUI.prototype;
+		__proto__.createChildren=function(){
+		    
+			laya.ui.Component.prototype.createChildren.call(this);
+			this.createView(LogInUI.uiView);
+		}
+
+		STATICATTR$(LogInUI,
+		['uiView',function(){return this.uiView={"type":"View","props":{"width":640,"height":1024},"child":[{"type":"Image","props":{"y":0,"x":0,"var":"logInBg","skin":"ui/logBg.jpg"}},{"type":"Box","props":{"y":53,"x":2,"var":"formBg"},"child":[{"type":"Image","props":{"y":196,"width":634,"skin":"ui/common_a_01.png","height":667}},{"type":"Image","props":{"y":263,"x":69,"width":494,"skin":"ui/pay_01.png","height":571}},{"type":"Image","props":{"y":243,"x":19,"skin":"ui/pay_02.png"}},{"type":"Image","props":{"y":772,"x":41,"skin":"ui/role_zhuangshi.png"}},{"type":"Image","props":{"y":241,"x":442,"skin":"ui/pay_02 _2.png","rotation":0}},{"type":"Image","props":{"x":56,"skin":"ui/login_title.png"}}]},{"type":"Label","props":{"y":450,"x":152,"width":325,"text":"使用手机号登录","height":47,"fontSize":30,"font":"Microsoft YaHei","color":"#ffffff","bold":false,"align":"center"}},{"type":"Image","props":{"y":507,"x":103,"width":108,"skin":"ui/r-8.png","height":61}},{"type":"Image","props":{"y":601,"x":101,"width":115,"skin":"ui/r-14.png","height":61}},{"type":"TextInput","props":{"y":515,"x":228,"width":299,"var":"logTel","valign":"middle","type":"number","skin":"ui/common_a_10.png","sizeGrid":"4,12,5,16","prompt":"输入手机号","height":47,"fontSize":25,"font":"Microsoft YaHei","color":"#ffffff","align":"left"}},{"type":"TextInput","props":{"y":608,"x":228,"width":299,"var":"logPwd","valign":"middle","type":"password","skin":"ui/common_a_10.png","sizeGrid":"4,12,5,16","prompt":"输入密码","height":47,"fontSize":25,"font":"Microsoft YaHei","color":"#ffffff","align":"left"}},{"type":"Button","props":{"y":750,"x":107,"width":195,"var":"toLoad","strokeColors":"none","stateNum":"1","skin":"ui/common_a_28.png","labelStrokeColor":"#ffffff","labelStroke":0,"labelSize":30,"labelFont":"Microsoft YaHei","labelColors":"#59120C","labelAlign":"center","label":"登录","height":63}},{"type":"Button","props":{"y":751,"x":337,"width":195,"var":"toRegist","stateNum":"1","skin":"ui/common_a_28.png","labelStrokeColor":"#ffffff","labelSize":30,"labelFont":"Microsoft YaHei","labelColors":"#59120C","labelAlign":"center","label":"注册","height":63}},{"type":"Label","props":{"y":823,"x":254,"width":124,"var":"forgetPwd","valign":"middle","underlineColor":"#0000ff","underline":true,"text":"忘记密码","height":36,"fontSize":20,"font":"Microsoft YaHei","color":"#0000ff","bold":true,"align":"center"}},{"type":"CheckBox","props":{"y":699,"x":121,"width":95,"var":"isRemAct","height":28}},{"type":"CheckBox","props":{"y":689,"x":102,"width":63,"var":"remAcut","stateNum":"2","skin":"ui/checkSkin2.png","selected":true,"labelAlign":"none","height":44}},{"type":"Image","props":{"y":686,"x":168,"skin":"ui/r-19.png"}},{"type":"CheckBox","props":{"y":689,"x":334,"width":63,"var":"remPwd","stateNum":"2","skin":"ui/checkSkin2.png","selected":true,"labelAlign":"none","height":44}},{"type":"Image","props":{"y":686,"x":400,"skin":"ui/r-16.png"}},{"type":"Image","props":{"y":949,"x":10,"skin":"ui/r-1.png"}}]};}
+		]);
+		return LogInUI;
+	})(View);
+var PetUI=(function(_super){
+		function PetUI(){
+			
+		    this.ani1=null;
+
+			PetUI.__super.call(this);
+		}
+
+		CLASS$(PetUI,'ui.PetUI',_super);
+		var __proto__=PetUI.prototype;
+		__proto__.createChildren=function(){
+		    
+			laya.ui.Component.prototype.createChildren.call(this);
+			this.createView(PetUI.uiView);
+		}
+
+		STATICATTR$(PetUI,
+		['uiView',function(){return this.uiView={"type":"View","props":{"width":130,"name":"Pet","height":130},"child":[{"type":"Image","props":{"y":14.5,"x":3.5,"skin":"ui/dogclimb1.png"},"compId":8}],"animations":[{"nodes":[{"target":8,"keyframes":{"y":[{"value":20.5,"tweenMethod":"linearNone","tween":true,"target":8,"key":"y","index":0},{"value":20.833333333333336,"tweenMethod":"linearNone","tween":true,"target":8,"key":"y","index":1},{"value":21.166666666666668,"tweenMethod":"linearNone","tween":true,"target":8,"key":"y","index":2},{"value":25.5,"tweenMethod":"linearNone","tween":true,"target":8,"key":"y","index":3},{"value":25,"tweenMethod":"linearNone","tween":true,"target":8,"key":"y","index":4},{"value":25.5,"tweenMethod":"linearNone","tween":true,"target":8,"key":"y","index":5},{"value":27.5,"tweenMethod":"linearNone","tween":true,"target":8,"key":"y","index":6},{"value":26.5,"tweenMethod":"linearNone","tween":true,"target":8,"key":"y","index":7}],"x":[{"value":1.5,"tweenMethod":"linearNone","tween":true,"target":8,"key":"x","index":0},{"value":0.833333333333333,"tweenMethod":"linearNone","tween":true,"target":8,"key":"x","index":1},{"value":-0.33333333333333326,"tweenMethod":"linearNone","tween":true,"target":8,"key":"x","index":2},{"value":0.5,"tweenMethod":"linearNone","tween":true,"target":8,"key":"x","index":3},{"value":0.5,"tweenMethod":"linearNone","tween":true,"target":8,"key":"x","index":4},{"value":2.5,"tweenMethod":"linearNone","tween":true,"target":8,"key":"x","index":5},{"value":-0.5,"tweenMethod":"linearNone","tween":true,"target":8,"key":"x","index":6},{"value":0.5,"tweenMethod":"linearNone","tween":true,"target":8,"key":"x","index":7}],"skin":[{"value":"ui/dogclimb1.png","tweenMethod":"linearNone","tween":false,"target":8,"key":"skin","index":0},{"value":"ui/dogclimb2.png","tweenMethod":"linearNone","tween":false,"target":8,"key":"skin","index":1},{"value":"ui/dogclimb3.png","tweenMethod":"linearNone","tween":false,"target":8,"key":"skin","index":2},{"value":"ui/dogclimb4.png","tweenMethod":"linearNone","tween":false,"target":8,"key":"skin","index":3},{"value":"ui/dogclimb5.png","tweenMethod":"linearNone","tween":false,"target":8,"key":"skin","index":4},{"value":"ui/dogclimb6.png","tweenMethod":"linearNone","tween":false,"target":8,"key":"skin","index":5},{"value":"ui/dogclimb7.png","tweenMethod":"linearNone","tween":false,"target":8,"key":"skin","index":6},{"value":"ui/dogclimb8.png","tweenMethod":"linearNone","tween":false,"target":8,"key":"skin","index":7}]}}],"name":"ani1","id":1,"frameRate":10,"action":2}]};}
+		]);
+		return PetUI;
+	})(View);
