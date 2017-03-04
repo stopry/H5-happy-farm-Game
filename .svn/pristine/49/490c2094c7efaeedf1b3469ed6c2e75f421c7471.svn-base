@@ -104,8 +104,8 @@ var Datas = (function(datas){
         //种子信息
         datas.seedInfo = [
             {
-                seedType:null,//种子类型
-                seedLevel:null//种子等级
+                seedType:1,//种子类型
+                seedLevel:1//种子等级
             },
             {
                 seedType:null,

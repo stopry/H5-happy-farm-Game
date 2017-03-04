@@ -5,7 +5,6 @@ var Farm = (function(_super){
         this.feedBtn = [];
         //存放土地的数组
         this.lands = new Array;
-        this.seeds = new Array;
         //土地数量
         this.landNum = 12;
         Farm.super(this);
@@ -33,8 +32,8 @@ var Farm = (function(_super){
         //添加排行榜
         this.addChild(new RankList());
         this.onLoadHeader();//加载头部
-        this.onLoadSeed();//加载种子 
         this.onLoadLand();//加载土地
+        this.onLoadSeed();//加载种子 
         this.onLoadStatue();//加载神像
         this.getFeedBtn();
         new MyHome(this.myHome,this.famlilyMune,false,0,-100);//我的家园
@@ -69,29 +68,18 @@ var Farm = (function(_super){
     _proto.onLoadLand = function(){
         //循环数组
         for(var i = 0;i<this.landNum;i++){
-            this.land = new Land(
-                this.getChildByName("item"+i).getChildByName("land"),
-                this.landInfo[i].landLv,
-                this.landInfo[i].ishasSeed,
-                false,
-                this.getChildByName("item"+i).getChildByName("toolBox"),
-                this.getChildByName("item"+i).getChildByName("toolBox").y,
-                this.seeds[i]
-            );
+            this.land = new Land(this.getChildByName("item"+i).getChildByName("land"),this.landInfo[i].landLv,false);
             this.lands.push(this.land);
         }
     }
     //初始化种子
     _proto.onLoadSeed = function(){
-        // this.seeds = [];
+        this.seeds = [];
         for(var i = 0;i<12;i++){
             var seedTemp = this.getChildByName("item"+i).getChildByName('seed'+i);
             this.seed = new Seed(seedTemp,this.seedInfo[i].seedType,this.seedInfo[i].seedLevel,1,1,1,1);
             this.seeds.push(this.seed);
         }
-        this.seeds[0].type = 1;
-        this.seeds[0].level = 1;
-        this.seeds[0].loadSeed();
     }
     //初始化
     _proto.onLoadStatue = function(){

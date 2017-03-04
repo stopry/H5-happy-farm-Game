@@ -1,6 +1,6 @@
 //种子逻辑
 var Seed = (function(){
-    // params——种子-种子类型-等级-状态-是否成熟-是否被-土地等级
+    // params——种子-种子类型-等级-状态-是否成熟-是否被偷-土地等级
     function Seed(seed,type,level,state,isRipe,isSteal,landLv){
         this.seed = seed;
         this.type = type;
@@ -8,10 +8,14 @@ var Seed = (function(){
         this.state = state;
         this.isRipe = isRipe;
         this.isSteal = isSteal;
+        this.landLv = landLv;
         this.loadSeed();
     };
     var _proto = Seed.prototype;
     // 初始化种子
+    _proto.alerts = function(){
+        alert(1)
+    }
     _proto.loadSeed = function(){
         this.setSeedUI(this.level,this.type);
     }
