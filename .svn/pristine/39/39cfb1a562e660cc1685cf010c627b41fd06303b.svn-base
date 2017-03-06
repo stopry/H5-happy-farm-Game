@@ -10,182 +10,146 @@ var Datas = (function(datas){
                 landLv:2,//土地等级
                 seedType:0,//种子类型
                 seedLevel:0,//种子等级
-                fertility:100,//肥沃度
-                isDry:true,//是否干旱
+                
             },
             {
                 landId:2,
                 ishasSeed:0,
-                landLv:2,
+                landLv:1,
                 seedType:0,
                 seedLevel:0,
-                fertility:100,
-                isDry:true,
+                
             },
             {
                 landId:3,
                 ishasSeed:0,
-                landLv:2,
+                landLv:1,
                 seedType:0,
                 seedLevel:0,
-                fertility:100,
-                isDry:true,
+                
             },
             {
                 landId:4,
                 ishasSeed:0,
-                landLv:2,
+                landLv:1,
                 seedType:0,
                 seedLevel:0,
-                fertility:100,
-                isDry:true,
+                
             },
             {
                 landId:5,
                 ishasSeed:0,
-                landLv:2,
+                landLv:1,
                 seedType:0,
                 seedLevel:0,
-                fertility:100,
-                isDry:true,
+                
             },
             {
                 landId:6,
                 ishasSeed:0,
-                landLv:2,
+                landLv:1,
                 seedType:0,
                 seedLevel:0,
-                fertility:100,
-                isDry:true,
+                
             },
             {
                 landId:7,
                 ishasSeed:0,
-                landLv:2,
+                landLv:1,
                 seedType:0,
                 seedLevel:0,
-                fertility:100,
-                isDry:true,
+                
             },
             {
                 landId:8,
                 ishasSeed:0,
-                landLv:2,
+                landLv:1,
                 seedType:0,
                 seedLevel:0,
-                fertility:100,
-                isDry:true,
+                
             },
             {
                 landId:9,
                 ishasSeed:0,
-                landLv:2,
+                landLv:1,
                 seedType:0,
                 seedLevel:0,
-                fertility:100,
-                isDry:true,
+                
             },
             {
                 landId:10,
                 ishasSeed:0,
-                landLv:2,
+                landLv:1,
                 seedType:0,
                 seedLevel:0,
-                fertility:100,
-                isDry:true,
+                
             },
             {
                 landId:11,
                 ishasSeed:0,
-                landLv:2,
+                landLv:1,
                 seedType:0,
                 seedLevel:0,
-                fertility:100,
-                isDry:true,
+                
             },
             {
                 landId:12,
                 ishasSeed:0,
-                landLv:2,
+                landLv:1,
                 seedType:0,
                 seedLevel:0,
-                fertility:100,
-                isDry:true,
+                
             }
         ];
         //种子信息
         datas.seedInfo = [
             {
                 seedType:null,//种子类型
-                seedLevel:null,//种子等级
-                fertility:100,//肥沃度
-                isDry:true,//是否干旱
+                seedLevel:null//种子等级
             },
             {
                 seedType:null,
                 seedLevel:null,
-                fertility:100,
-                isDry:true,
             },
             {
                 seedType:null,
                 seedLevel:null,
-                fertility:100,
-                isDry:true,
             },
             {
                 seedType:null,
                 seedLevel:null,
-                fertility:100,
-                isDry:true,
             },
             {
                 seedType:null,
                 seedLevel:null,
-                fertility:100,
-                isDry:true,
             },
             {
                 seedType:null,
                 seedLevel:null,
-                fertility:100,
-                isDry:true,
             },
             {
                 seedType:null,
                 seedLevel:null,
-                fertility:100,
-                isDry:true,
             },
             {
                 seedType:null,
                 seedLevel:null,
-                fertility:100,
-                isDry:true,
             },
             {
                 seedType:null,
                 seedLevel:null,
-                fertility:100,
-                isDry:true,
             },
             {
                 seedType:null,
                 seedLevel:null,
-                fertility:100,
-                isDry:true,
             },
             {
                 seedType:null,
                 seedLevel:null,
-                fertility:100,
-                isDry:true,
             },
             {
                 seedType:null,
                 seedLevel:null,
-                fertility:100,
-                isDry:true,
             }
         ];
         //神像数据
@@ -247,10 +211,6 @@ var Datas = (function(datas){
                 })
             }
             return lists;
-        }
-        //用户资产
-        datas.assets = {
-            seeds:50,//种子
         }
         return datas;
 })(Datas);

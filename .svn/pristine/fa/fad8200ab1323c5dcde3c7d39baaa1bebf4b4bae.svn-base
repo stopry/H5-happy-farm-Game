@@ -41,7 +41,7 @@ var Farm = (function(_super){
         new MyOrchard(this.myOrchard,this.orchardMenu,false,-2,100);//我的果园
         new SignIn(this.signIn,Service.userInfo().isSingIn,this.signInAlert,this.signInAlert.getChildByName("signInAward"));//签到
         this.addUserInfo();
-        this.addRankList();//排行榜弹窗
+        this.addRankList();
     }
     //用户信息-点击头部图片弹出
     _proto.addUserInfo = function(){
@@ -73,12 +73,10 @@ var Farm = (function(_super){
                 this.getChildByName("item"+i).getChildByName("land"),
                 this.landInfo[i].landLv,
                 this.landInfo[i].ishasSeed,
-                this.landInfo[i].isDry,
+                false,
                 this.getChildByName("item"+i).getChildByName("toolBox"),
                 this.getChildByName("item"+i).getChildByName("toolBox").y,
-                this.seeds[i],
-                this.landInfo[i].fertility,
-                this.getChildByName("item"+i).getChildByName("oprTipLayer")
+                this.seeds[i]
             );
             this.lands.push(this.land);
         }
