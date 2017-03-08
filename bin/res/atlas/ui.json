@@ -1,6 +1,6 @@
 {
     "frames": {
-        "fence11_0.png": {
+        "fence13_0.png": {
             "frame": {
                 "x": 0,
                 "y": 0,
@@ -21,7 +21,7 @@
             "rotated": false,
             "trimed": false
         },
-        "fence13_0.png": {
+        "fence11_0.png": {
             "frame": {
                 "x": 450,
                 "y": 0,
@@ -1092,7 +1092,7 @@
             "rotated": false,
             "trimed": false
         },
-        "statue_1_1.png": {
+        "statue_1_0.png": {
             "frame": {
                 "x": 1503,
                 "y": 893,
@@ -1113,7 +1113,7 @@
             "rotated": false,
             "trimed": false
         },
-        "statue_1_0.png": {
+        "statue_1_1.png": {
             "frame": {
                 "x": 1264,
                 "y": 901,
@@ -1155,7 +1155,7 @@
             "rotated": false,
             "trimed": false
         },
-        "head3.png": {
+        "head4.png": {
             "frame": {
                 "x": 1767,
                 "y": 931,
@@ -1176,7 +1176,7 @@
             "rotated": false,
             "trimed": false
         },
-        "head4.png": {
+        "head1.png": {
             "frame": {
                 "x": 0,
                 "y": 941,
@@ -1197,7 +1197,7 @@
             "rotated": false,
             "trimed": false
         },
-        "head1.png": {
+        "head2.png": {
             "frame": {
                 "x": 603,
                 "y": 953,
@@ -1218,7 +1218,7 @@
             "rotated": false,
             "trimed": false
         },
-        "head2.png": {
+        "head3.png": {
             "frame": {
                 "x": 426,
                 "y": 955,
@@ -2310,7 +2310,7 @@
             "rotated": false,
             "trimed": false
         },
-        "statue_2_0.png": {
+        "statue_2_1.png": {
             "frame": {
                 "x": 1922,
                 "y": 1061,
@@ -2331,7 +2331,7 @@
             "rotated": false,
             "trimed": false
         },
-        "statue_2_1.png": {
+        "statue_2_0.png": {
             "frame": {
                 "x": 1917,
                 "y": 1205,
@@ -2541,7 +2541,7 @@
             "rotated": false,
             "trimed": false
         },
-        "dogclimb_2.png": {
+        "dogclimb2.png": {
             "frame": {
                 "x": 1107,
                 "y": 1491,
@@ -2562,7 +2562,7 @@
             "rotated": false,
             "trimed": false
         },
-        "dogclimb2.png": {
+        "dogclimb_2.png": {
             "frame": {
                 "x": 1233,
                 "y": 1491,
@@ -2625,7 +2625,7 @@
             "rotated": false,
             "trimed": false
         },
-        "dogclimb5.png": {
+        "dogclimb_5.png": {
             "frame": {
                 "x": 1359,
                 "y": 1510,
@@ -2646,7 +2646,7 @@
             "rotated": false,
             "trimed": false
         },
-        "dogclimb_5.png": {
+        "dogclimb5.png": {
             "frame": {
                 "x": 1779,
                 "y": 1539,
@@ -2688,7 +2688,7 @@
             "rotated": false,
             "trimed": false
         },
-        "dogclimb4.png": {
+        "dogclimb_4.png": {
             "frame": {
                 "x": 114,
                 "y": 1545,
@@ -2709,7 +2709,7 @@
             "rotated": false,
             "trimed": false
         },
-        "dogclimb_4.png": {
+        "dogclimb4.png": {
             "frame": {
                 "x": 1631,
                 "y": 1547,
@@ -2835,7 +2835,7 @@
             "rotated": false,
             "trimed": false
         },
-        "dogclimb6.png": {
+        "dogclimb_6.png": {
             "frame": {
                 "x": 371,
                 "y": 1579,
@@ -2856,7 +2856,7 @@
             "rotated": false,
             "trimed": false
         },
-        "dogclimb_6.png": {
+        "dogclimb6.png": {
             "frame": {
                 "x": 1228,
                 "y": 1594,
@@ -2919,7 +2919,7 @@
             "rotated": false,
             "trimed": false
         },
-        "dogclimb_8.png": {
+        "dogclimb8.png": {
             "frame": {
                 "x": 740,
                 "y": 1604,
@@ -2940,7 +2940,7 @@
             "rotated": false,
             "trimed": false
         },
-        "dogclimb8.png": {
+        "dogclimb_8.png": {
             "frame": {
                 "x": 1353,
                 "y": 1608,
@@ -3339,7 +3339,7 @@
             "rotated": false,
             "trimed": false
         },
-        "Orchard_GL.png": {
+        "myOrchard_GL.png": {
             "frame": {
                 "x": 1474,
                 "y": 1715,
@@ -3360,7 +3360,7 @@
             "rotated": false,
             "trimed": false
         },
-        "myOrchard_GL.png": {
+        "Orchard_GL.png": {
             "frame": {
                 "x": 1729,
                 "y": 1724,
@@ -3654,7 +3654,7 @@
             "rotated": false,
             "trimed": false
         },
-        "tool_plant.png": {
+        "menu_30.png": {
             "frame": {
                 "x": 759,
                 "y": 1802,
@@ -3696,7 +3696,7 @@
             "rotated": false,
             "trimed": false
         },
-        "menu_31.png": {
+        "menu_25.png": {
             "frame": {
                 "x": 1474,
                 "y": 1811,
@@ -3717,7 +3717,7 @@
             "rotated": false,
             "trimed": false
         },
-        "menu_30.png": {
+        "menu_31.png": {
             "frame": {
                 "x": 1661,
                 "y": 1820,
@@ -3738,7 +3738,7 @@
             "rotated": false,
             "trimed": false
         },
-        "menu_25.png": {
+        "tool_plant.png": {
             "frame": {
                 "x": 941,
                 "y": 1821,
@@ -3885,7 +3885,7 @@
             "rotated": false,
             "trimed": false
         },
-        "menu_39.png": {
+        "myOrchard_HQ.png": {
             "frame": {
                 "x": 180,
                 "y": 1857,
@@ -3906,7 +3906,7 @@
             "rotated": false,
             "trimed": false
         },
-        "myOrchard_HQ.png": {
+        "menu_39.png": {
             "frame": {
                 "x": 657,
                 "y": 1857,
@@ -4305,27 +4305,6 @@
             "rotated": false,
             "trimed": false
         },
-        "r-9.png": {
-            "frame": {
-                "x": 0,
-                "y": 239,
-                "w": 163,
-                "h": 42,
-                "idx": 1
-            },
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 163,
-                "h": 42
-            },
-            "sourceSize": {
-                "w": 163,
-                "h": 42
-            },
-            "rotated": false,
-            "trimed": false
-        },
         "common_a_36.png": {
             "frame": {
                 "x": 31,
@@ -4349,8 +4328,8 @@
         },
         "r-6.png": {
             "frame": {
-                "x": 105,
-                "y": 0,
+                "x": 0,
+                "y": 239,
                 "w": 162,
                 "h": 42,
                 "idx": 1
@@ -4371,7 +4350,7 @@
         "icon_01.png": {
             "frame": {
                 "x": 105,
-                "y": 44,
+                "y": 0,
                 "w": 85,
                 "h": 80,
                 "idx": 1
@@ -4389,10 +4368,52 @@
             "rotated": false,
             "trimed": false
         },
+        "idCard.png": {
+            "frame": {
+                "x": 105,
+                "y": 82,
+                "w": 156,
+                "h": 43,
+                "idx": 1
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 156,
+                "h": 43
+            },
+            "sourceSize": {
+                "w": 156,
+                "h": 43
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "realName.png": {
+            "frame": {
+                "x": 192,
+                "y": 0,
+                "w": 155,
+                "h": 43,
+                "idx": 1
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 155,
+                "h": 43
+            },
+            "sourceSize": {
+                "w": 155,
+                "h": 43
+            },
+            "rotated": false,
+            "trimed": false
+        },
         "r-11.png": {
             "frame": {
                 "x": 31,
-                "y": 126,
+                "y": 127,
                 "w": 158,
                 "h": 42,
                 "idx": 1
@@ -4410,10 +4431,52 @@
             "rotated": false,
             "trimed": false
         },
+        "msgVerfy.png": {
+            "frame": {
+                "x": 164,
+                "y": 171,
+                "w": 153,
+                "h": 43,
+                "idx": 1
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 153,
+                "h": 43
+            },
+            "sourceSize": {
+                "w": 153,
+                "h": 43
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "r-9.png": {
+            "frame": {
+                "x": 263,
+                "y": 45,
+                "w": 154,
+                "h": 42,
+                "idx": 1
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 154,
+                "h": 42
+            },
+            "sourceSize": {
+                "w": 154,
+                "h": 42
+            },
+            "rotated": false,
+            "trimed": false
+        },
         "pay_09.png": {
             "frame": {
-                "x": 165,
-                "y": 170,
+                "x": 31,
+                "y": 171,
                 "w": 98,
                 "h": 66,
                 "idx": 1
@@ -4431,10 +4494,31 @@
             "rotated": false,
             "trimed": false
         },
+        "confirmPwd.png": {
+            "frame": {
+                "x": 349,
+                "y": 0,
+                "w": 161,
+                "h": 40,
+                "idx": 1
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 161,
+                "h": 40
+            },
+            "sourceSize": {
+                "w": 161,
+                "h": 40
+            },
+            "rotated": false,
+            "trimed": false
+        },
         "common_a_40.png": {
             "frame": {
-                "x": 192,
-                "y": 44,
+                "x": 263,
+                "y": 89,
                 "w": 83,
                 "h": 77,
                 "idx": 1
@@ -4454,8 +4538,8 @@
         },
         "pay_08.png": {
             "frame": {
-                "x": 265,
-                "y": 123,
+                "x": 319,
+                "y": 168,
                 "w": 56,
                 "h": 114,
                 "idx": 1
@@ -4475,8 +4559,8 @@
         },
         "common_b_44.png": {
             "frame": {
-                "x": 277,
-                "y": 0,
+                "x": 0,
+                "y": 283,
                 "w": 76,
                 "h": 84,
                 "idx": 1
@@ -4496,8 +4580,8 @@
         },
         "dog1_68.png": {
             "frame": {
-                "x": 165,
-                "y": 238,
+                "x": 78,
+                "y": 283,
                 "w": 16,
                 "h": 395,
                 "idx": 1
@@ -4517,8 +4601,8 @@
         },
         "common_a_37.png": {
             "frame": {
-                "x": 0,
-                "y": 283,
+                "x": 348,
+                "y": 89,
                 "w": 83,
                 "h": 76,
                 "idx": 1
@@ -4538,8 +4622,8 @@
         },
         "r-12.png": {
             "frame": {
-                "x": 0,
-                "y": 361,
+                "x": 419,
+                "y": 42,
                 "w": 150,
                 "h": 42,
                 "idx": 1
@@ -4559,8 +4643,8 @@
         },
         "r-8.png": {
             "frame": {
-                "x": 31,
-                "y": 170,
+                "x": 96,
+                "y": 283,
                 "w": 114,
                 "h": 55,
                 "idx": 1
@@ -4580,8 +4664,8 @@
         },
         "r-3.png": {
             "frame": {
-                "x": 0,
-                "y": 405,
+                "x": 512,
+                "y": 0,
                 "w": 160,
                 "h": 39,
                 "idx": 1
@@ -4599,10 +4683,31 @@
             "rotated": false,
             "trimed": false
         },
+        "inputPwd.png": {
+            "frame": {
+                "x": 212,
+                "y": 284,
+                "w": 156,
+                "h": 40,
+                "idx": 1
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 156,
+                "h": 40
+            },
+            "sourceSize": {
+                "w": 156,
+                "h": 40
+            },
+            "rotated": false,
+            "trimed": false
+        },
         "friends.png": {
             "frame": {
-                "x": 0,
-                "y": 446,
+                "x": 370,
+                "y": 284,
                 "w": 89,
                 "h": 70,
                 "idx": 1
@@ -4620,31 +4725,10 @@
             "rotated": false,
             "trimed": false
         },
-        "r-2.png": {
-            "frame": {
-                "x": 0,
-                "y": 518,
-                "w": 154,
-                "h": 39,
-                "idx": 1
-            },
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 154,
-                "h": 39
-            },
-            "sourceSize": {
-                "w": 154,
-                "h": 39
-            },
-            "rotated": false,
-            "trimed": false
-        },
         "r-10.png": {
             "frame": {
-                "x": 0,
-                "y": 559,
+                "x": 164,
+                "y": 216,
                 "w": 143,
                 "h": 42,
                 "idx": 1
@@ -4662,10 +4746,31 @@
             "rotated": false,
             "trimed": false
         },
+        "r-2.png": {
+            "frame": {
+                "x": 433,
+                "y": 86,
+                "w": 154,
+                "h": 39,
+                "idx": 1
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 154,
+                "h": 39
+            },
+            "sourceSize": {
+                "w": 154,
+                "h": 39
+            },
+            "rotated": false,
+            "trimed": false
+        },
         "icon_05.png": {
             "frame": {
-                "x": 0,
-                "y": 603,
+                "x": 433,
+                "y": 127,
                 "w": 92,
                 "h": 65,
                 "idx": 1
@@ -4685,8 +4790,8 @@
         },
         "common_a_47.png": {
             "frame": {
-                "x": 277,
-                "y": 86,
+                "x": 571,
+                "y": 41,
                 "w": 168,
                 "h": 35,
                 "idx": 1
@@ -4706,8 +4811,8 @@
         },
         "common_b_17.png": {
             "frame": {
-                "x": 355,
-                "y": 0,
+                "x": 377,
+                "y": 194,
                 "w": 112,
                 "h": 51,
                 "idx": 1
@@ -4727,8 +4832,8 @@
         },
         "common_a_41.png": {
             "frame": {
-                "x": 183,
-                "y": 238,
+                "x": 0,
+                "y": 369,
                 "w": 74,
                 "h": 77,
                 "idx": 1
@@ -4746,10 +4851,10 @@
             "rotated": false,
             "trimed": false
         },
-        "seed_1_5.png": {
+        "seed_2_5.png": {
             "frame": {
-                "x": 183,
-                "y": 317,
+                "x": 96,
+                "y": 340,
                 "w": 107,
                 "h": 53,
                 "idx": 1
@@ -4767,10 +4872,10 @@
             "rotated": false,
             "trimed": false
         },
-        "seed_2_5.png": {
+        "seed_1_5.png": {
             "frame": {
-                "x": 259,
-                "y": 239,
+                "x": 205,
+                "y": 340,
                 "w": 107,
                 "h": 53,
                 "idx": 1
@@ -4790,8 +4895,8 @@
         },
         "r-14.png": {
             "frame": {
-                "x": 323,
-                "y": 123,
+                "x": 314,
+                "y": 356,
                 "w": 121,
                 "h": 46,
                 "idx": 1
@@ -4809,10 +4914,31 @@
             "rotated": false,
             "trimed": false
         },
+        "mobileNum.png": {
+            "frame": {
+                "x": 674,
+                "y": 0,
+                "w": 151,
+                "h": 36,
+                "idx": 1
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 151,
+                "h": 36
+            },
+            "sourceSize": {
+                "w": 151,
+                "h": 36
+            },
+            "rotated": false,
+            "trimed": false
+        },
         "icon_07.png": {
             "frame": {
-                "x": 323,
-                "y": 171,
+                "x": 96,
+                "y": 395,
                 "w": 87,
                 "h": 62,
                 "idx": 1
@@ -4832,8 +4958,8 @@
         },
         "dog1_65.png": {
             "frame": {
-                "x": 94,
-                "y": 603,
+                "x": 0,
+                "y": 448,
                 "w": 46,
                 "h": 116,
                 "idx": 1
@@ -4853,8 +4979,8 @@
         },
         "common_a_43.png": {
             "frame": {
-                "x": 85,
-                "y": 283,
+                "x": 0,
+                "y": 566,
                 "w": 75,
                 "h": 71,
                 "idx": 1
@@ -4875,7 +5001,7 @@
         "guide_16.png": {
             "frame": {
                 "x": 0,
-                "y": 670,
+                "y": 639,
                 "w": 66,
                 "h": 80,
                 "idx": 1
@@ -4895,8 +5021,8 @@
         },
         "header_recharge.png": {
             "frame": {
-                "x": 292,
-                "y": 294,
+                "x": 185,
+                "y": 395,
                 "w": 63,
                 "h": 83,
                 "idx": 1
@@ -4916,8 +5042,8 @@
         },
         "icon_06.png": {
             "frame": {
-                "x": 183,
-                "y": 372,
+                "x": 96,
+                "y": 459,
                 "w": 74,
                 "h": 70,
                 "idx": 1
@@ -4937,8 +5063,8 @@
         },
         "common_a_24.png": {
             "frame": {
-                "x": 259,
-                "y": 379,
+                "x": 437,
+                "y": 356,
                 "w": 139,
                 "h": 37,
                 "idx": 1
@@ -4958,8 +5084,8 @@
         },
         "common_b_55.png": {
             "frame": {
-                "x": 368,
-                "y": 235,
+                "x": 527,
+                "y": 127,
                 "w": 142,
                 "h": 36,
                 "idx": 1
@@ -4979,8 +5105,8 @@
         },
         "icon_11.png": {
             "frame": {
-                "x": 469,
-                "y": 0,
+                "x": 527,
+                "y": 165,
                 "w": 85,
                 "h": 60,
                 "idx": 1
@@ -5000,8 +5126,8 @@
         },
         "r-20.png": {
             "frame": {
-                "x": 447,
-                "y": 62,
+                "x": 589,
+                "y": 78,
                 "w": 123,
                 "h": 41,
                 "idx": 1
@@ -5021,8 +5147,8 @@
         },
         "icon_09.png": {
             "frame": {
-                "x": 91,
-                "y": 446,
+                "x": 491,
+                "y": 227,
                 "w": 71,
                 "h": 70,
                 "idx": 1
@@ -5042,8 +5168,8 @@
         },
         "r-19.png": {
             "frame": {
-                "x": 556,
-                "y": 0,
+                "x": 564,
+                "y": 227,
                 "w": 121,
                 "h": 41,
                 "idx": 1
@@ -5063,8 +5189,8 @@
         },
         "r-16.png": {
             "frame": {
-                "x": 447,
-                "y": 105,
+                "x": 671,
+                "y": 121,
                 "w": 121,
                 "h": 41,
                 "idx": 1
@@ -5084,8 +5210,8 @@
         },
         "common_b_23.png": {
             "frame": {
-                "x": 446,
-                "y": 148,
+                "x": 741,
+                "y": 38,
                 "w": 72,
                 "h": 68,
                 "idx": 1
@@ -5105,8 +5231,8 @@
         },
         "pet_03.png": {
             "frame": {
-                "x": 368,
-                "y": 273,
+                "x": 671,
+                "y": 164,
                 "w": 88,
                 "h": 54,
                 "idx": 1
@@ -5124,10 +5250,31 @@
             "rotated": false,
             "trimed": false
         },
+        "TJCode.png": {
+            "frame": {
+                "x": 564,
+                "y": 270,
+                "w": 120,
+                "h": 39,
+                "idx": 1
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 120,
+                "h": 39
+            },
+            "sourceSize": {
+                "w": 120,
+                "h": 39
+            },
+            "rotated": false,
+            "trimed": false
+        },
         "common_a_39.png": {
             "frame": {
-                "x": 400,
-                "y": 329,
+                "x": 250,
+                "y": 395,
                 "w": 49,
                 "h": 95,
                 "idx": 1
@@ -5145,10 +5292,31 @@
             "rotated": false,
             "trimed": false
         },
+        "inputBg.png": {
+            "frame": {
+                "x": 172,
+                "y": 480,
+                "w": 75,
+                "h": 62,
+                "idx": 1
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 75,
+                "h": 62
+            },
+            "sourceSize": {
+                "w": 75,
+                "h": 62
+            },
+            "rotated": false,
+            "trimed": false
+        },
         "icon_12.png": {
             "frame": {
-                "x": 259,
-                "y": 418,
+                "x": 96,
+                "y": 531,
                 "w": 68,
                 "h": 68,
                 "idx": 1
@@ -5168,8 +5336,8 @@
         },
         "common_b_54.png": {
             "frame": {
-                "x": 329,
-                "y": 426,
+                "x": 461,
+                "y": 311,
                 "w": 112,
                 "h": 41,
                 "idx": 1
@@ -5189,8 +5357,8 @@
         },
         "r-17.png": {
             "frame": {
-                "x": 443,
-                "y": 426,
+                "x": 575,
+                "y": 311,
                 "w": 107,
                 "h": 41,
                 "idx": 1
@@ -5210,8 +5378,8 @@
         },
         "guide_07.png": {
             "frame": {
-                "x": 512,
-                "y": 218,
+                "x": 249,
+                "y": 492,
                 "w": 208,
                 "h": 21,
                 "idx": 1
@@ -5231,8 +5399,8 @@
         },
         "icon_13.png": {
             "frame": {
-                "x": 679,
-                "y": 0,
+                "x": 437,
+                "y": 395,
                 "w": 62,
                 "h": 70,
                 "idx": 1
@@ -5252,8 +5420,8 @@
         },
         "common_a_45.png": {
             "frame": {
-                "x": 572,
-                "y": 43,
+                "x": 301,
+                "y": 404,
                 "w": 91,
                 "h": 47,
                 "idx": 1
@@ -5273,8 +5441,8 @@
         },
         "common_b_56.png": {
             "frame": {
-                "x": 665,
-                "y": 72,
+                "x": 459,
+                "y": 467,
                 "w": 136,
                 "h": 31,
                 "idx": 1
@@ -5294,8 +5462,8 @@
         },
         "dog1_53.png": {
             "frame": {
-                "x": 572,
-                "y": 92,
+                "x": 597,
+                "y": 354,
                 "w": 34,
                 "h": 122,
                 "idx": 1
@@ -5315,8 +5483,8 @@
         },
         "common_a_42.png": {
             "frame": {
-                "x": 608,
-                "y": 92,
+                "x": 597,
+                "y": 478,
                 "w": 48,
                 "h": 84,
                 "idx": 1
@@ -5334,10 +5502,10 @@
             "rotated": false,
             "trimed": false
         },
-        "checkSkin2.png": {
+        "checkSkin.png": {
             "frame": {
-                "x": 658,
-                "y": 105,
+                "x": 633,
+                "y": 354,
                 "w": 50,
                 "h": 80,
                 "idx": 1
@@ -5355,10 +5523,10 @@
             "rotated": false,
             "trimed": false
         },
-        "checkSkin.png": {
+        "checkSkin2.png": {
             "frame": {
-                "x": 710,
-                "y": 105,
+                "x": 249,
+                "y": 515,
                 "w": 50,
                 "h": 80,
                 "idx": 1
@@ -5378,8 +5546,8 @@
         },
         "pay_13.png": {
             "frame": {
-                "x": 743,
-                "y": 0,
+                "x": 684,
+                "y": 311,
                 "w": 98,
                 "h": 40,
                 "idx": 1
@@ -5399,8 +5567,8 @@
         },
         "icon_18.png": {
             "frame": {
-                "x": 512,
-                "y": 241,
+                "x": 501,
+                "y": 395,
                 "w": 61,
                 "h": 62,
                 "idx": 1
@@ -5420,8 +5588,8 @@
         },
         "pet_13.png": {
             "frame": {
-                "x": 458,
-                "y": 305,
+                "x": 761,
+                "y": 164,
                 "w": 59,
                 "h": 64,
                 "idx": 1
@@ -5441,8 +5609,8 @@
         },
         "pet_09.png": {
             "frame": {
-                "x": 519,
-                "y": 305,
+                "x": 377,
+                "y": 247,
                 "w": 107,
                 "h": 35,
                 "idx": 1
@@ -5462,8 +5630,8 @@
         },
         "icon_14.png": {
             "frame": {
-                "x": 575,
-                "y": 241,
+                "x": 687,
+                "y": 220,
                 "w": 62,
                 "h": 60,
                 "idx": 1
@@ -5483,8 +5651,8 @@
         },
         "header_pullup.png": {
             "frame": {
-                "x": 519,
-                "y": 342,
+                "x": 815,
+                "y": 38,
                 "w": 63,
                 "h": 59,
                 "idx": 1
@@ -5504,8 +5672,8 @@
         },
         "icon_30.png": {
             "frame": {
-                "x": 183,
-                "y": 444,
+                "x": 815,
+                "y": 99,
                 "w": 59,
                 "h": 63,
                 "idx": 1
@@ -5525,8 +5693,8 @@
         },
         "pet_14.png": {
             "frame": {
-                "x": 552,
-                "y": 403,
+                "x": 751,
+                "y": 230,
                 "w": 58,
                 "h": 64,
                 "idx": 1
@@ -5546,8 +5714,8 @@
         },
         "dog1_25.png": {
             "frame": {
-                "x": 612,
-                "y": 342,
+                "x": 166,
+                "y": 544,
                 "w": 29,
                 "h": 128,
                 "idx": 1
@@ -5567,8 +5735,8 @@
         },
         "icon_104.png": {
             "frame": {
-                "x": 639,
-                "y": 241,
+                "x": 301,
+                "y": 515,
                 "w": 90,
                 "h": 41,
                 "idx": 1
@@ -5588,8 +5756,8 @@
         },
         "common_b_53.png": {
             "frame": {
-                "x": 722,
-                "y": 187,
+                "x": 301,
+                "y": 558,
                 "w": 90,
                 "h": 41,
                 "idx": 1
@@ -5609,8 +5777,8 @@
         },
         "header_pulldown.png": {
             "frame": {
-                "x": 762,
-                "y": 105,
+                "x": 96,
+                "y": 601,
                 "w": 62,
                 "h": 59,
                 "idx": 1
@@ -5630,8 +5798,8 @@
         },
         "icon_28.png": {
             "frame": {
-                "x": 803,
-                "y": 42,
+                "x": 96,
+                "y": 662,
                 "w": 62,
                 "h": 59,
                 "idx": 1
@@ -5651,8 +5819,8 @@
         },
         "icon_23.png": {
             "frame": {
-                "x": 329,
-                "y": 469,
+                "x": 0,
+                "y": 721,
                 "w": 63,
                 "h": 58,
                 "idx": 1
@@ -5672,8 +5840,8 @@
         },
         "icon_22.png": {
             "frame": {
-                "x": 183,
-                "y": 509,
+                "x": 197,
+                "y": 597,
                 "w": 58,
                 "h": 62,
                 "idx": 1
@@ -5693,8 +5861,8 @@
         },
         "roleinfo_07.png": {
             "frame": {
-                "x": 639,
-                "y": 284,
+                "x": 633,
+                "y": 436,
                 "w": 169,
                 "h": 21,
                 "idx": 1
@@ -5714,8 +5882,8 @@
         },
         "icon_20.png": {
             "frame": {
-                "x": 243,
-                "y": 509,
+                "x": 784,
+                "y": 296,
                 "w": 61,
                 "h": 58,
                 "idx": 1
@@ -5735,8 +5903,8 @@
         },
         "icon_34.png": {
             "frame": {
-                "x": 394,
-                "y": 469,
+                "x": 685,
+                "y": 353,
                 "w": 56,
                 "h": 63,
                 "idx": 1
@@ -5756,8 +5924,8 @@
         },
         "icon_38.png": {
             "frame": {
-                "x": 451,
-                "y": 371,
+                "x": 811,
+                "y": 230,
                 "w": 66,
                 "h": 53,
                 "idx": 1
@@ -5777,8 +5945,8 @@
         },
         "icon_36.png": {
             "frame": {
-                "x": 306,
-                "y": 529,
+                "x": 822,
+                "y": 164,
                 "w": 61,
                 "h": 57,
                 "idx": 1
@@ -5798,8 +5966,8 @@
         },
         "icon_24.png": {
             "frame": {
-                "x": 183,
-                "y": 573,
+                "x": 743,
+                "y": 356,
                 "w": 56,
                 "h": 62,
                 "idx": 1
@@ -5819,8 +5987,8 @@
         },
         "pet_15.png": {
             "frame": {
-                "x": 241,
-                "y": 573,
+                "x": 801,
+                "y": 356,
                 "w": 56,
                 "h": 61,
                 "idx": 1
@@ -5840,8 +6008,8 @@
         },
         "dog1_32.png": {
             "frame": {
-                "x": 142,
-                "y": 635,
+                "x": 880,
+                "y": 0,
                 "w": 26,
                 "h": 130,
                 "idx": 1
@@ -5861,8 +6029,8 @@
         },
         "icon_26.png": {
             "frame": {
-                "x": 0,
-                "y": 752,
+                "x": 847,
+                "y": 285,
                 "w": 56,
                 "h": 60,
                 "idx": 1
@@ -5882,8 +6050,8 @@
         },
         "r-18.png": {
             "frame": {
-                "x": 731,
-                "y": 230,
+                "x": 393,
+                "y": 515,
                 "w": 78,
                 "h": 43,
                 "idx": 1
@@ -5903,8 +6071,8 @@
         },
         "icon_63.png": {
             "frame": {
-                "x": 58,
-                "y": 752,
+                "x": 393,
+                "y": 560,
                 "w": 59,
                 "h": 56,
                 "idx": 1
@@ -5924,8 +6092,8 @@
         },
         "seed_2_2.png": {
             "frame": {
-                "x": 452,
-                "y": 469,
+                "x": 614,
+                "y": 165,
                 "w": 55,
                 "h": 60,
                 "idx": 1
@@ -5943,10 +6111,10 @@
             "rotated": false,
             "trimed": false
         },
-        "header_cement.png": {
+        "pet_16.png": {
             "frame": {
-                "x": 452,
-                "y": 531,
+                "x": 257,
+                "y": 601,
                 "w": 61,
                 "h": 52,
                 "idx": 1
@@ -5964,10 +6132,10 @@
             "rotated": false,
             "trimed": false
         },
-        "pet_16.png": {
+        "header_cement.png": {
             "frame": {
-                "x": 509,
-                "y": 469,
+                "x": 320,
+                "y": 601,
                 "w": 61,
                 "h": 52,
                 "idx": 1
@@ -5987,8 +6155,8 @@
         },
         "roleinfo_02.png": {
             "frame": {
-                "x": 628,
-                "y": 307,
+                "x": 301,
+                "y": 453,
                 "w": 96,
                 "h": 33,
                 "idx": 1
@@ -6008,8 +6176,8 @@
         },
         "roleinfo_03.png": {
             "frame": {
-                "x": 515,
-                "y": 523,
+                "x": 454,
+                "y": 560,
                 "w": 93,
                 "h": 33,
                 "idx": 1
@@ -6029,8 +6197,8 @@
         },
         "icon_68.png": {
             "frame": {
-                "x": 515,
-                "y": 558,
+                "x": 473,
+                "y": 500,
                 "w": 61,
                 "h": 50,
                 "idx": 1
@@ -6050,8 +6218,8 @@
         },
         "icon_60.png": {
             "frame": {
-                "x": 299,
-                "y": 588,
+                "x": 536,
+                "y": 500,
                 "w": 58,
                 "h": 52,
                 "idx": 1
@@ -6071,8 +6239,8 @@
         },
         "menu_49.png": {
             "frame": {
-                "x": 170,
-                "y": 637,
+                "x": 885,
+                "y": 132,
                 "w": 40,
                 "h": 72,
                 "idx": 1
@@ -6092,8 +6260,8 @@
         },
         "icon_15.png": {
             "frame": {
-                "x": 212,
-                "y": 637,
+                "x": 549,
+                "y": 564,
                 "w": 61,
                 "h": 47,
                 "idx": 1
@@ -6113,8 +6281,8 @@
         },
         "icon_78.png": {
             "frame": {
-                "x": 359,
-                "y": 588,
+                "x": 454,
+                "y": 595,
                 "w": 54,
                 "h": 53,
                 "idx": 1
@@ -6134,8 +6302,8 @@
         },
         "icon_66.png": {
             "frame": {
-                "x": 275,
-                "y": 642,
+                "x": 383,
+                "y": 618,
                 "w": 51,
                 "h": 56,
                 "idx": 1
@@ -6156,7 +6324,7 @@
         "common_a_22.png": {
             "frame": {
                 "x": 191,
-                "y": 126,
+                "y": 127,
                 "w": 69,
                 "h": 41,
                 "idx": 1
@@ -6176,7 +6344,7 @@
         },
         "dog1_05.png": {
             "frame": {
-                "x": 119,
+                "x": 65,
                 "y": 721,
                 "w": 21,
                 "h": 134,
@@ -6197,8 +6365,8 @@
         },
         "icon_80.png": {
             "frame": {
-                "x": 58,
-                "y": 810,
+                "x": 0,
+                "y": 781,
                 "w": 53,
                 "h": 53,
                 "idx": 1
@@ -6218,8 +6386,8 @@
         },
         "header_wood.png": {
             "frame": {
-                "x": 369,
-                "y": 534,
+                "x": 0,
+                "y": 836,
                 "w": 56,
                 "h": 50,
                 "idx": 1
@@ -6239,8 +6407,8 @@
         },
         "roleinfo_04.png": {
             "frame": {
-                "x": 608,
-                "y": 187,
+                "x": 160,
+                "y": 674,
                 "w": 96,
                 "h": 29,
                 "idx": 1
@@ -6260,8 +6428,8 @@
         },
         "common_b_45.png": {
             "frame": {
-                "x": 212,
-                "y": 686,
+                "x": 258,
+                "y": 655,
                 "w": 29,
                 "h": 96,
                 "idx": 1
@@ -6281,8 +6449,8 @@
         },
         "icon_44.png": {
             "frame": {
-                "x": 520,
-                "y": 148,
+                "x": 879,
+                "y": 223,
                 "w": 47,
                 "h": 59,
                 "idx": 1
@@ -6302,8 +6470,8 @@
         },
         "building_04.png": {
             "frame": {
-                "x": 0,
-                "y": 814,
+                "x": 88,
+                "y": 723,
                 "w": 50,
                 "h": 55,
                 "idx": 1
@@ -6323,8 +6491,8 @@
         },
         "pet_05.png": {
             "frame": {
-                "x": 142,
-                "y": 767,
+                "x": 140,
+                "y": 723,
                 "w": 58,
                 "h": 47,
                 "idx": 1
@@ -6344,8 +6512,8 @@
         },
         "common_b_20.png": {
             "frame": {
-                "x": 572,
-                "y": 472,
+                "x": 510,
+                "y": 613,
                 "w": 112,
                 "h": 24,
                 "idx": 1
@@ -6365,8 +6533,8 @@
         },
         "icon_72.png": {
             "frame": {
-                "x": 643,
-                "y": 342,
+                "x": 200,
+                "y": 705,
                 "w": 46,
                 "h": 58,
                 "idx": 1
@@ -6386,8 +6554,8 @@
         },
         "icon_82.png": {
             "frame": {
-                "x": 643,
-                "y": 402,
+                "x": 289,
+                "y": 655,
                 "w": 51,
                 "h": 52,
                 "idx": 1
@@ -6407,8 +6575,8 @@
         },
         "icon_84.png": {
             "frame": {
-                "x": 691,
-                "y": 342,
+                "x": 612,
+                "y": 564,
                 "w": 57,
                 "h": 46,
                 "idx": 1
@@ -6428,8 +6596,8 @@
         },
         "icon_86.png": {
             "frame": {
-                "x": 415,
-                "y": 586,
+                "x": 647,
+                "y": 459,
                 "w": 46,
                 "h": 57,
                 "idx": 1
@@ -6449,8 +6617,8 @@
         },
         "icon_91.png": {
             "frame": {
-                "x": 328,
-                "y": 643,
+                "x": 197,
+                "y": 544,
                 "w": 50,
                 "h": 51,
                 "idx": 1
@@ -6470,8 +6638,8 @@
         },
         "common_a_08.png": {
             "frame": {
-                "x": 578,
-                "y": 558,
+                "x": 624,
+                "y": 612,
                 "w": 55,
                 "h": 46,
                 "idx": 1
@@ -6491,8 +6659,8 @@
         },
         "icon_89.png": {
             "frame": {
-                "x": 610,
-                "y": 498,
+                "x": 671,
+                "y": 518,
                 "w": 54,
                 "h": 46,
                 "idx": 1
@@ -6512,8 +6680,8 @@
         },
         "seed_1_2.png": {
             "frame": {
-                "x": 578,
-                "y": 606,
+                "x": 695,
+                "y": 459,
                 "w": 55,
                 "h": 45,
                 "idx": 1
@@ -6533,8 +6701,8 @@
         },
         "common_a_48.png": {
             "frame": {
-                "x": 355,
-                "y": 53,
+                "x": 671,
+                "y": 566,
                 "w": 80,
                 "h": 30,
                 "idx": 1
@@ -6554,8 +6722,8 @@
         },
         "icon_54.png": {
             "frame": {
-                "x": 380,
-                "y": 645,
+                "x": 752,
+                "y": 459,
                 "w": 61,
                 "h": 39,
                 "idx": 1
@@ -6575,8 +6743,8 @@
         },
         "icon_94.png": {
             "frame": {
-                "x": 443,
-                "y": 645,
+                "x": 752,
+                "y": 500,
                 "w": 49,
                 "h": 48,
                 "idx": 1
@@ -6596,8 +6764,8 @@
         },
         "icon_103.png": {
             "frame": {
-                "x": 380,
-                "y": 686,
+                "x": 436,
+                "y": 650,
                 "w": 51,
                 "h": 46,
                 "idx": 1
@@ -6617,8 +6785,8 @@
         },
         "common_b_19.png": {
             "frame": {
-                "x": 643,
-                "y": 456,
+                "x": 727,
+                "y": 550,
                 "w": 178,
                 "h": 13,
                 "idx": 1
@@ -6638,8 +6806,8 @@
         },
         "dog1_72.png": {
             "frame": {
-                "x": 810,
-                "y": 275,
+                "x": 48,
+                "y": 448,
                 "w": 22,
                 "h": 105,
                 "idx": 1
@@ -6659,8 +6827,8 @@
         },
         "icon_96.png": {
             "frame": {
-                "x": 463,
-                "y": 585,
+                "x": 803,
+                "y": 500,
                 "w": 48,
                 "h": 48,
                 "idx": 1
@@ -6680,8 +6848,8 @@
         },
         "icon_70.png": {
             "frame": {
-                "x": 811,
-                "y": 230,
+                "x": 815,
+                "y": 419,
                 "w": 53,
                 "h": 43,
                 "idx": 1
@@ -6701,8 +6869,8 @@
         },
         "dog1_03.png": {
             "frame": {
-                "x": 750,
-                "y": 307,
+                "x": 870,
+                "y": 347,
                 "w": 17,
                 "h": 134,
                 "idx": 1
@@ -6722,8 +6890,8 @@
         },
         "dog1_09.png": {
             "frame": {
-                "x": 769,
-                "y": 307,
+                "x": 889,
+                "y": 347,
                 "w": 17,
                 "h": 134,
                 "idx": 1
@@ -6743,8 +6911,8 @@
         },
         "icon_40.png": {
             "frame": {
-                "x": 696,
-                "y": 390,
+                "x": 853,
+                "y": 483,
                 "w": 51,
                 "h": 44,
                 "idx": 1
@@ -6764,8 +6932,8 @@
         },
         "icon_100.png": {
             "frame": {
-                "x": 814,
-                "y": 166,
+                "x": 342,
+                "y": 676,
                 "w": 50,
                 "h": 44,
                 "idx": 1
@@ -6785,8 +6953,8 @@
         },
         "label.png": {
             "frame": {
-                "x": 243,
-                "y": 700,
+                "x": 164,
+                "y": 260,
                 "w": 120,
                 "h": 18,
                 "idx": 1
@@ -6806,8 +6974,8 @@
         },
         "menu_42.png": {
             "frame": {
-                "x": 243,
-                "y": 720,
+                "x": 399,
+                "y": 404,
                 "w": 26,
                 "h": 83,
                 "idx": 1
@@ -6827,8 +6995,8 @@
         },
         "common_a_13.png": {
             "frame": {
-                "x": 826,
-                "y": 103,
+                "x": 289,
+                "y": 709,
                 "w": 49,
                 "h": 44,
                 "idx": 1
@@ -6848,8 +7016,8 @@
         },
         "pay_06.png": {
             "frame": {
-                "x": 494,
-                "y": 635,
+                "x": 394,
+                "y": 676,
                 "w": 10,
                 "h": 215,
                 "idx": 1
@@ -6869,8 +7037,8 @@
         },
         "common_b_51.png": {
             "frame": {
-                "x": 788,
-                "y": 382,
+                "x": 248,
+                "y": 753,
                 "w": 39,
                 "h": 55,
                 "idx": 1
@@ -6890,8 +7058,8 @@
         },
         "icon_48.png": {
             "frame": {
-                "x": 271,
-                "y": 720,
+                "x": 140,
+                "y": 772,
                 "w": 51,
                 "h": 42,
                 "idx": 1
@@ -6911,8 +7079,8 @@
         },
         "roleinfo_05.png": {
             "frame": {
-                "x": 324,
-                "y": 734,
+                "x": 289,
+                "y": 755,
                 "w": 73,
                 "h": 29,
                 "idx": 1
@@ -6932,8 +7100,8 @@
         },
         "icon_101.png": {
             "frame": {
-                "x": 271,
-                "y": 764,
+                "x": 289,
+                "y": 786,
                 "w": 46,
                 "h": 46,
                 "idx": 1
@@ -6953,8 +7121,8 @@
         },
         "dog1_12.png": {
             "frame": {
-                "x": 399,
-                "y": 734,
+                "x": 200,
+                "y": 765,
                 "w": 16,
                 "h": 131,
                 "idx": 1
@@ -6974,8 +7142,8 @@
         },
         "common_a_21.png": {
             "frame": {
-                "x": 202,
-                "y": 805,
+                "x": 218,
+                "y": 810,
                 "w": 49,
                 "h": 42,
                 "idx": 1
@@ -6995,8 +7163,8 @@
         },
         "icon_92.png": {
             "frame": {
-                "x": 170,
-                "y": 711,
+                "x": 337,
+                "y": 786,
                 "w": 40,
                 "h": 51,
                 "idx": 1
@@ -7016,8 +7184,8 @@
         },
         "icon_51.png": {
             "frame": {
-                "x": 843,
-                "y": 0,
+                "x": 269,
+                "y": 834,
                 "w": 51,
                 "h": 40,
                 "idx": 1
@@ -7037,8 +7205,8 @@
         },
         "common_b_40.png": {
             "frame": {
-                "x": 142,
-                "y": 816,
+                "x": 88,
+                "y": 780,
                 "w": 25,
                 "h": 80,
                 "idx": 1
@@ -7058,8 +7226,8 @@
         },
         "common_b_57.png": {
             "frame": {
-                "x": 52,
-                "y": 865,
+                "x": 58,
+                "y": 862,
                 "w": 76,
                 "h": 26,
                 "idx": 1
@@ -7079,8 +7247,8 @@
         },
         "dog1_55.png": {
             "frame": {
-                "x": 417,
-                "y": 734,
+                "x": 908,
+                "y": 0,
                 "w": 16,
                 "h": 122,
                 "idx": 1
@@ -7100,8 +7268,8 @@
         },
         "r-4.png": {
             "frame": {
-                "x": 253,
-                "y": 812,
+                "x": 322,
+                "y": 839,
                 "w": 50,
                 "h": 39,
                 "idx": 1
@@ -7119,31 +7287,10 @@
             "rotated": false,
             "trimed": false
         },
-        "pet_19.png": {
-            "frame": {
-                "x": 169,
-                "y": 853,
-                "w": 128,
-                "h": 15,
-                "idx": 1
-            },
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 128,
-                "h": 15
-            },
-            "sourceSize": {
-                "w": 128,
-                "h": 15
-            },
-            "rotated": false,
-            "trimed": false
-        },
         "icon_99.png": {
             "frame": {
-                "x": 357,
-                "y": 329,
+                "x": 218,
+                "y": 854,
                 "w": 40,
                 "h": 48,
                 "idx": 1
@@ -7161,10 +7308,31 @@
             "rotated": false,
             "trimed": false
         },
+        "pet_19.png": {
+            "frame": {
+                "x": 260,
+                "y": 880,
+                "w": 128,
+                "h": 15,
+                "idx": 1
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 128,
+                "h": 15
+            },
+            "sourceSize": {
+                "w": 128,
+                "h": 15
+            },
+            "rotated": false,
+            "trimed": false
+        },
         "menu_52.png": {
             "frame": {
-                "x": 299,
-                "y": 853,
+                "x": 489,
+                "y": 650,
                 "w": 89,
                 "h": 21,
                 "idx": 1
@@ -7184,8 +7352,8 @@
         },
         "dog1_07.png": {
             "frame": {
-                "x": 435,
-                "y": 695,
+                "x": 406,
+                "y": 676,
                 "w": 14,
                 "h": 131,
                 "idx": 1
@@ -7205,8 +7373,8 @@
         },
         "icon_105.png": {
             "frame": {
-                "x": 435,
-                "y": 828,
+                "x": 115,
+                "y": 816,
                 "w": 49,
                 "h": 37,
                 "idx": 1
@@ -7226,8 +7394,8 @@
         },
         "icon_39.png": {
             "frame": {
-                "x": 412,
-                "y": 171,
+                "x": 166,
+                "y": 816,
                 "w": 32,
                 "h": 55,
                 "idx": 1
@@ -7245,31 +7413,10 @@
             "rotated": false,
             "trimed": false
         },
-        "dog1_43.png": {
-            "frame": {
-                "x": 451,
-                "y": 695,
-                "w": 15,
-                "h": 117,
-                "idx": 1
-            },
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 15,
-                "h": 117
-            },
-            "sourceSize": {
-                "w": 15,
-                "h": 117
-            },
-            "rotated": false,
-            "trimed": false
-        },
         "pet_20.png": {
             "frame": {
-                "x": 169,
-                "y": 870,
+                "x": 0,
+                "y": 890,
                 "w": 117,
                 "h": 15,
                 "idx": 1
@@ -7287,10 +7434,31 @@
             "rotated": false,
             "trimed": false
         },
+        "dog1_43.png": {
+            "frame": {
+                "x": 580,
+                "y": 639,
+                "w": 15,
+                "h": 117,
+                "idx": 1
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 15,
+                "h": 117
+            },
+            "sourceSize": {
+                "w": 15,
+                "h": 117
+            },
+            "rotated": false,
+            "trimed": false
+        },
         "r-21.png": {
             "frame": {
-                "x": 319,
-                "y": 765,
+                "x": 422,
+                "y": 698,
                 "w": 42,
                 "h": 41,
                 "idx": 1
@@ -7308,10 +7476,10 @@
             "rotated": false,
             "trimed": false
         },
-        "common_a_32.png": {
+        "common_a_27.png": {
             "frame": {
-                "x": 0,
-                "y": 871,
+                "x": 827,
+                "y": 0,
                 "w": 49,
                 "h": 35,
                 "idx": 1
@@ -7329,10 +7497,10 @@
             "rotated": false,
             "trimed": false
         },
-        "common_a_27.png": {
+        "common_a_32.png": {
             "frame": {
-                "x": 319,
-                "y": 808,
+                "x": 192,
+                "y": 45,
                 "w": 49,
                 "h": 35,
                 "idx": 1
@@ -7352,8 +7520,8 @@
         },
         "icon_106.png": {
             "frame": {
-                "x": 506,
-                "y": 635,
+                "x": 422,
+                "y": 741,
                 "w": 46,
                 "h": 37,
                 "idx": 1
@@ -7373,8 +7541,8 @@
         },
         "common_a_44.png": {
             "frame": {
-                "x": 68,
-                "y": 670,
+                "x": 470,
+                "y": 698,
                 "w": 23,
                 "h": 71,
                 "idx": 1
@@ -7394,8 +7562,8 @@
         },
         "icon_32.png": {
             "frame": {
-                "x": 554,
-                "y": 653,
+                "x": 495,
+                "y": 673,
                 "w": 33,
                 "h": 49,
                 "idx": 1
@@ -7415,8 +7583,8 @@
         },
         "common_b_28.png": {
             "frame": {
-                "x": 589,
-                "y": 653,
+                "x": 136,
+                "y": 873,
                 "w": 47,
                 "h": 34,
                 "idx": 1
@@ -7436,8 +7604,8 @@
         },
         "dog1_28.png": {
             "frame": {
-                "x": 506,
-                "y": 674,
+                "x": 379,
+                "y": 722,
                 "w": 12,
                 "h": 133,
                 "idx": 1
@@ -7457,8 +7625,8 @@
         },
         "common_a_49.png": {
             "frame": {
-                "x": 244,
-                "y": 488,
+                "x": 495,
+                "y": 724,
                 "w": 83,
                 "h": 19,
                 "idx": 1
@@ -7478,8 +7646,8 @@
         },
         "dog1_41.png": {
             "frame": {
-                "x": 468,
-                "y": 695,
+                "x": 495,
+                "y": 745,
                 "w": 12,
                 "h": 130,
                 "idx": 1
@@ -7499,8 +7667,8 @@
         },
         "menu_55.png": {
             "frame": {
-                "x": 635,
-                "y": 546,
+                "x": 597,
+                "y": 660,
                 "w": 89,
                 "h": 17,
                 "idx": 1
@@ -7520,8 +7688,8 @@
         },
         "menu_54.png": {
             "frame": {
-                "x": 686,
-                "y": 471,
+                "x": 681,
+                "y": 598,
                 "w": 89,
                 "h": 17,
                 "idx": 1
@@ -7541,8 +7709,8 @@
         },
         "common_b_27.png": {
             "frame": {
-                "x": 686,
-                "y": 490,
+                "x": 530,
+                "y": 673,
                 "w": 42,
                 "h": 35,
                 "idx": 1
@@ -7562,8 +7730,8 @@
         },
         "common_b_10.png": {
             "frame": {
-                "x": 635,
-                "y": 565,
+                "x": 406,
+                "y": 809,
                 "w": 41,
                 "h": 35,
                 "idx": 1
@@ -7583,8 +7751,8 @@
         },
         "icon_87.png": {
             "frame": {
-                "x": 520,
-                "y": 674,
+                "x": 131,
+                "y": 171,
                 "w": 31,
                 "h": 46,
                 "idx": 1
@@ -7604,8 +7772,8 @@
         },
         "building_13.png": {
             "frame": {
-                "x": 666,
-                "y": 527,
+                "x": 685,
+                "y": 420,
                 "w": 117,
                 "h": 12,
                 "idx": 1
@@ -7625,8 +7793,8 @@
         },
         "menu_40.png": {
             "frame": {
-                "x": 638,
-                "y": 602,
+                "x": 578,
+                "y": 354,
                 "w": 14,
                 "h": 99,
                 "idx": 1
@@ -7646,8 +7814,8 @@
         },
         "common_b_34.png": {
             "frame": {
-                "x": 777,
-                "y": 471,
+                "x": 406,
+                "y": 846,
                 "w": 37,
                 "h": 37,
                 "idx": 1
@@ -7667,8 +7835,8 @@
         },
         "common_a_31.png": {
             "frame": {
-                "x": 730,
-                "y": 490,
+                "x": 445,
+                "y": 846,
                 "w": 40,
                 "h": 34,
                 "idx": 1
@@ -7688,8 +7856,8 @@
         },
         "icon_102.png": {
             "frame": {
-                "x": 589,
-                "y": 689,
+                "x": 449,
+                "y": 780,
                 "w": 28,
                 "h": 48,
                 "idx": 1
@@ -7709,8 +7877,8 @@
         },
         "header_jewel.png": {
             "frame": {
-                "x": 520,
-                "y": 722,
+                "x": 509,
+                "y": 745,
                 "w": 36,
                 "h": 37,
                 "idx": 1
@@ -7730,8 +7898,8 @@
         },
         "common_b_24.png": {
             "frame": {
-                "x": 788,
-                "y": 307,
+                "x": 547,
+                "y": 745,
                 "w": 19,
                 "h": 68,
                 "idx": 1
@@ -7749,31 +7917,10 @@
             "rotated": false,
             "trimed": false
         },
-        "common_a_19.png": {
-            "frame": {
-                "x": 619,
-                "y": 703,
-                "w": 74,
-                "h": 17,
-                "idx": 1
-            },
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 74,
-                "h": 17
-            },
-            "sourceSize": {
-                "w": 74,
-                "h": 17
-            },
-            "rotated": false,
-            "trimed": false
-        },
         "common_b_46.png": {
             "frame": {
-                "x": 678,
-                "y": 565,
+                "x": 681,
+                "y": 617,
                 "w": 37,
                 "h": 34,
                 "idx": 1
@@ -7791,10 +7938,31 @@
             "rotated": false,
             "trimed": false
         },
+        "common_a_19.png": {
+            "frame": {
+                "x": 753,
+                "y": 565,
+                "w": 74,
+                "h": 17,
+                "idx": 1
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 74,
+                "h": 17
+            },
+            "sourceSize": {
+                "w": 74,
+                "h": 17
+            },
+            "rotated": false,
+            "trimed": false
+        },
         "menu_16.png": {
             "frame": {
-                "x": 678,
-                "y": 601,
+                "x": 509,
+                "y": 784,
                 "w": 35,
                 "h": 35,
                 "idx": 1
@@ -7814,8 +7982,8 @@
         },
         "common_a_10.png": {
             "frame": {
-                "x": 363,
-                "y": 765,
+                "x": 688,
+                "y": 653,
                 "w": 32,
                 "h": 38,
                 "idx": 1
@@ -7835,8 +8003,8 @@
         },
         "icon_98.png": {
             "frame": {
-                "x": 458,
-                "y": 273,
+                "x": 314,
+                "y": 326,
                 "w": 45,
                 "h": 27,
                 "idx": 1
@@ -7856,8 +8024,8 @@
         },
         "menu_51.png": {
             "frame": {
-                "x": 654,
-                "y": 638,
+                "x": 597,
+                "y": 679,
                 "w": 31,
                 "h": 39,
                 "idx": 1
@@ -7877,8 +8045,8 @@
         },
         "icon_76.png": {
             "frame": {
-                "x": 584,
-                "y": 342,
+                "x": 630,
+                "y": 679,
                 "w": 24,
                 "h": 50,
                 "idx": 1
@@ -7898,8 +8066,8 @@
         },
         "menu_57.png": {
             "frame": {
-                "x": 51,
-                "y": 893,
+                "x": 686,
+                "y": 296,
                 "w": 89,
                 "h": 13,
                 "idx": 1
@@ -7919,8 +8087,8 @@
         },
         "common_b_29.png": {
             "frame": {
-                "x": 696,
-                "y": 443,
+                "x": 753,
+                "y": 584,
                 "w": 138,
                 "h": 8,
                 "idx": 1
@@ -7940,8 +8108,8 @@
         },
         "common_a_50.png": {
             "frame": {
-                "x": 687,
-                "y": 638,
+                "x": 720,
+                "y": 617,
                 "w": 157,
                 "h": 7,
                 "idx": 1
@@ -7962,7 +8130,7 @@
         "r-7.png": {
             "frame": {
                 "x": 772,
-                "y": 510,
+                "y": 594,
                 "w": 121,
                 "h": 9,
                 "idx": 1
@@ -7982,8 +8150,8 @@
         },
         "menu_14.png": {
             "frame": {
-                "x": 829,
-                "y": 382,
+                "x": 340,
+                "y": 722,
                 "w": 35,
                 "h": 31,
                 "idx": 1
@@ -8003,8 +8171,8 @@
         },
         "dog1_56.png": {
             "frame": {
-                "x": 31,
-                "y": 227,
+                "x": 772,
+                "y": 605,
                 "w": 120,
                 "h": 9,
                 "idx": 1
@@ -8024,8 +8192,8 @@
         },
         "menu_53.png": {
             "frame": {
-                "x": 513,
-                "y": 610,
+                "x": 853,
+                "y": 529,
                 "w": 63,
                 "h": 17,
                 "idx": 1
@@ -8045,8 +8213,8 @@
         },
         "vscroll$bar.png": {
             "frame": {
-                "x": 145,
-                "y": 559,
+                "x": 597,
+                "y": 720,
                 "w": 17,
                 "h": 63,
                 "idx": 1
@@ -8066,8 +8234,8 @@
         },
         "common_b_33.png": {
             "frame": {
-                "x": 836,
-                "y": 415,
+                "x": 568,
+                "y": 758,
                 "w": 15,
                 "h": 71,
                 "idx": 1
@@ -8087,8 +8255,8 @@
         },
         "leaf_1.png": {
             "frame": {
-                "x": 853,
-                "y": 415,
+                "x": 815,
+                "y": 464,
                 "w": 36,
                 "h": 29,
                 "idx": 1
@@ -8108,8 +8276,8 @@
         },
         "seed_1_1.png": {
             "frame": {
-                "x": 743,
-                "y": 42,
+                "x": 377,
+                "y": 167,
                 "w": 45,
                 "h": 23,
                 "idx": 1
@@ -8150,8 +8318,8 @@
         },
         "menu_46.png": {
             "frame": {
-                "x": 169,
-                "y": 816,
+                "x": 509,
+                "y": 821,
                 "w": 31,
                 "h": 33,
                 "idx": 1
@@ -8171,8 +8339,8 @@
         },
         "header-stone.png": {
             "frame": {
-                "x": 853,
-                "y": 446,
+                "x": 656,
+                "y": 693,
                 "w": 31,
                 "h": 33,
                 "idx": 1
@@ -8192,8 +8360,8 @@
         },
         "roleinfo_06.png": {
             "frame": {
-                "x": 427,
-                "y": 534,
+                "x": 905,
+                "y": 284,
                 "w": 20,
                 "h": 50,
                 "idx": 1
@@ -8213,8 +8381,8 @@
         },
         "dog1_63.png": {
             "frame": {
-                "x": 482,
-                "y": 695,
+                "x": 585,
+                "y": 758,
                 "w": 9,
                 "h": 111,
                 "idx": 1
@@ -8234,8 +8402,8 @@
         },
         "r-22.png": {
             "frame": {
-                "x": 370,
-                "y": 805,
+                "x": 647,
+                "y": 518,
                 "w": 22,
                 "h": 43,
                 "idx": 1
@@ -8253,31 +8421,10 @@
             "rotated": false,
             "trimed": false
         },
-        "icon_107.png": {
-            "frame": {
-                "x": 834,
-                "y": 275,
-                "w": 45,
-                "h": 21,
-                "idx": 1
-            },
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 45,
-                "h": 21
-            },
-            "sourceSize": {
-                "w": 45,
-                "h": 21
-            },
-            "rotated": false,
-            "trimed": false
-        },
         "common_a_25.png": {
             "frame": {
-                "x": 853,
-                "y": 481,
+                "x": 509,
+                "y": 856,
                 "w": 35,
                 "h": 27,
                 "idx": 1
@@ -8295,10 +8442,31 @@
             "rotated": false,
             "trimed": false
         },
+        "icon_107.png": {
+            "frame": {
+                "x": 445,
+                "y": 882,
+                "w": 45,
+                "h": 21,
+                "idx": 1
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 45,
+                "h": 21
+            },
+            "sourceSize": {
+                "w": 45,
+                "h": 21
+            },
+            "rotated": false,
+            "trimed": false
+        },
         "common_b_12.png": {
             "frame": {
-                "x": 834,
-                "y": 298,
+                "x": 542,
+                "y": 831,
                 "w": 41,
                 "h": 23,
                 "idx": 1
@@ -8318,8 +8486,8 @@
         },
         "r-5.png": {
             "frame": {
-                "x": 867,
-                "y": 42,
+                "x": 68,
+                "y": 680,
                 "w": 24,
                 "h": 39,
                 "idx": 1
@@ -8339,8 +8507,8 @@
         },
         "building_11.png": {
             "frame": {
-                "x": 834,
-                "y": 323,
+                "x": 727,
+                "y": 506,
                 "w": 22,
                 "h": 41,
                 "idx": 1
@@ -8360,8 +8528,8 @@
         },
         "common_b_18.png": {
             "frame": {
-                "x": 866,
-                "y": 323,
+                "x": 616,
+                "y": 720,
                 "w": 12,
                 "h": 75,
                 "idx": 1
@@ -8379,10 +8547,10 @@
             "rotated": false,
             "trimed": false
         },
-        "vscroll$down.png": {
+        "vscroll$up.png": {
             "frame": {
-                "x": 866,
-                "y": 149,
+                "x": 794,
+                "y": 108,
                 "w": 17,
                 "h": 51,
                 "idx": 1
@@ -8400,10 +8568,10 @@
             "rotated": false,
             "trimed": false
         },
-        "vscroll$up.png": {
+        "vscroll$down.png": {
             "frame": {
-                "x": 877,
-                "y": 83,
+                "x": 546,
+                "y": 856,
                 "w": 17,
                 "h": 51,
                 "idx": 1
@@ -8423,8 +8591,8 @@
         },
         "common_a_15.png": {
             "frame": {
-                "x": 785,
-                "y": 521,
+                "x": 492,
+                "y": 885,
                 "w": 43,
                 "h": 20,
                 "idx": 1
@@ -8444,8 +8612,8 @@
         },
         "icon_97.png": {
             "frame": {
-                "x": 147,
-                "y": 170,
+                "x": 596,
+                "y": 785,
                 "w": 16,
                 "h": 52,
                 "idx": 1
@@ -8465,8 +8633,8 @@
         },
         "common_b_37.png": {
             "frame": {
-                "x": 726,
-                "y": 541,
+                "x": 491,
+                "y": 194,
                 "w": 29,
                 "h": 28,
                 "idx": 1
@@ -8486,8 +8654,8 @@
         },
         "menu_56.png": {
             "frame": {
-                "x": 446,
-                "y": 218,
+                "x": 829,
+                "y": 565,
                 "w": 62,
                 "h": 13,
                 "idx": 1
@@ -8507,8 +8675,8 @@
         },
         "dog1_78.png": {
             "frame": {
-                "x": 880,
-                "y": 298,
+                "x": 908,
+                "y": 336,
                 "w": 8,
                 "h": 100,
                 "idx": 1
@@ -8528,8 +8696,8 @@
         },
         "icon_17.png": {
             "frame": {
-                "x": 814,
-                "y": 212,
+                "x": 720,
+                "y": 626,
                 "w": 59,
                 "h": 13,
                 "idx": 1
@@ -8549,8 +8717,8 @@
         },
         "common_b_11.png": {
             "frame": {
-                "x": 875,
-                "y": 202,
+                "x": 479,
+                "y": 771,
                 "w": 13,
                 "h": 58,
                 "idx": 1
@@ -8570,8 +8738,8 @@
         },
         "icon_79.png": {
             "frame": {
-                "x": 757,
-                "y": 541,
+                "x": 908,
+                "y": 438,
                 "w": 14,
                 "h": 53,
                 "idx": 1
@@ -8591,8 +8759,8 @@
         },
         "common_b_59.png": {
             "frame": {
-                "x": 687,
-                "y": 647,
+                "x": 720,
+                "y": 641,
                 "w": 185,
                 "h": 4,
                 "idx": 1
@@ -8612,8 +8780,8 @@
         },
         "dog1_49.png": {
             "frame": {
-                "x": 846,
-                "y": 521,
+                "x": 722,
+                "y": 647,
                 "w": 6,
                 "h": 123,
                 "idx": 1
@@ -8633,8 +8801,8 @@
         },
         "common_b_07.png": {
             "frame": {
-                "x": 773,
-                "y": 541,
+                "x": 630,
+                "y": 731,
                 "w": 9,
                 "h": 81,
                 "idx": 1
@@ -8654,8 +8822,8 @@
         },
         "common_b_60.png": {
             "frame": {
-                "x": 687,
-                "y": 653,
+                "x": 260,
+                "y": 897,
                 "w": 182,
                 "h": 4,
                 "idx": 1
@@ -8673,31 +8841,10 @@
             "rotated": false,
             "trimed": false
         },
-        "menu_45.png": {
-            "frame": {
-                "x": 830,
-                "y": 521,
-                "w": 10,
-                "h": 72,
-                "idx": 1
-            },
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 10,
-                "h": 72
-            },
-            "sourceSize": {
-                "w": 10,
-                "h": 72
-            },
-            "rotated": false,
-            "trimed": false
-        },
         "pet_07.png": {
             "frame": {
-                "x": 717,
-                "y": 596,
+                "x": 893,
+                "y": 565,
                 "w": 30,
                 "h": 24,
                 "idx": 1
@@ -8715,10 +8862,31 @@
             "rotated": false,
             "trimed": false
         },
+        "menu_45.png": {
+            "frame": {
+                "x": 614,
+                "y": 797,
+                "w": 10,
+                "h": 72,
+                "idx": 1
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 10,
+                "h": 72
+            },
+            "sourceSize": {
+                "w": 10,
+                "h": 72
+            },
+            "rotated": false,
+            "trimed": false
+        },
         "pet_04.png": {
             "frame": {
-                "x": 572,
-                "y": 498,
+                "x": 427,
+                "y": 467,
                 "w": 30,
                 "h": 23,
                 "idx": 1
@@ -8738,8 +8906,8 @@
         },
         "common_b_58.png": {
             "frame": {
-                "x": 717,
-                "y": 571,
+                "x": 286,
+                "y": 260,
                 "w": 31,
                 "h": 22,
                 "idx": 1
@@ -8757,31 +8925,10 @@
             "rotated": false,
             "trimed": false
         },
-        "common_b_31.png": {
-            "frame": {
-                "x": 816,
-                "y": 488,
-                "w": 32,
-                "h": 20,
-                "idx": 1
-            },
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 32,
-                "h": 20
-            },
-            "sourceSize": {
-                "w": 32,
-                "h": 20
-            },
-            "rotated": false,
-            "trimed": false
-        },
         "guide_18.png": {
             "frame": {
-                "x": 784,
-                "y": 543,
+                "x": 918,
+                "y": 336,
                 "w": 8,
                 "h": 80,
                 "idx": 1
@@ -8799,10 +8946,31 @@
             "rotated": false,
             "trimed": false
         },
+        "common_b_31.png": {
+            "frame": {
+                "x": 894,
+                "y": 605,
+                "w": 32,
+                "h": 20,
+                "idx": 1
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 32,
+                "h": 20
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 20
+            },
+            "rotated": false,
+            "trimed": false
+        },
         "dog1_51.png": {
             "frame": {
-                "x": 854,
-                "y": 521,
+                "x": 656,
+                "y": 728,
                 "w": 6,
                 "h": 106,
                 "idx": 1
@@ -8822,8 +8990,8 @@
         },
         "dog1_37.png": {
             "frame": {
-                "x": 862,
-                "y": 521,
+                "x": 641,
+                "y": 731,
                 "w": 5,
                 "h": 123,
                 "idx": 1
@@ -8843,8 +9011,8 @@
         },
         "common_b_42.png": {
             "frame": {
-                "x": 715,
-                "y": 625,
+                "x": 461,
+                "y": 299,
                 "w": 97,
                 "h": 6,
                 "idx": 1
@@ -8864,8 +9032,8 @@
         },
         "common_b_14.png": {
             "frame": {
-                "x": 869,
-                "y": 521,
+                "x": 648,
+                "y": 731,
                 "w": 5,
                 "h": 116,
                 "idx": 1
@@ -8885,8 +9053,8 @@
         },
         "icon_10.png": {
             "frame": {
-                "x": 814,
-                "y": 543,
+                "x": 626,
+                "y": 814,
                 "w": 8,
                 "h": 72,
                 "idx": 1
@@ -8906,8 +9074,8 @@
         },
         "r-25.png": {
             "frame": {
-                "x": 506,
-                "y": 809,
+                "x": 185,
+                "y": 905,
                 "w": 286,
                 "h": 2,
                 "idx": 1
@@ -8927,8 +9095,8 @@
         },
         "vscroll.png": {
             "frame": {
-                "x": 726,
-                "y": 307,
+                "x": 243,
+                "y": 45,
                 "w": 17,
                 "h": 33,
                 "idx": 1
@@ -8948,8 +9116,8 @@
         },
         "pet_21.png": {
             "frame": {
-                "x": 695,
-                "y": 659,
+                "x": 686,
+                "y": 282,
                 "w": 61,
                 "h": 9,
                 "idx": 1
@@ -8969,8 +9137,8 @@
         },
         "dog1_83.png": {
             "frame": {
-                "x": 762,
-                "y": 166,
+                "x": 885,
+                "y": 206,
                 "w": 41,
                 "h": 13,
                 "idx": 1
@@ -8990,8 +9158,8 @@
         },
         "icon_73.png": {
             "frame": {
-                "x": 417,
-                "y": 858,
+                "x": 565,
+                "y": 856,
                 "w": 11,
                 "h": 48,
                 "idx": 1
@@ -9011,8 +9179,8 @@
         },
         "icon_27.png": {
             "frame": {
-                "x": 890,
-                "y": 136,
+                "x": 907,
+                "y": 627,
                 "w": 2,
                 "h": 263,
                 "idx": 1
@@ -9032,8 +9200,8 @@
         },
         "common_b_48.png": {
             "frame": {
-                "x": 826,
-                "y": 149,
+                "x": 510,
+                "y": 595,
                 "w": 36,
                 "h": 14,
                 "idx": 1
@@ -9053,8 +9221,8 @@
         },
         "pet_10.png": {
             "frame": {
-                "x": 244,
-                "y": 444,
+                "x": 714,
+                "y": 78,
                 "w": 13,
                 "h": 38,
                 "idx": 1
@@ -9074,8 +9242,8 @@
         },
         "dog1_35.png": {
             "frame": {
-                "x": 871,
-                "y": 653,
+                "x": 911,
+                "y": 627,
                 "w": 2,
                 "h": 243,
                 "idx": 1
@@ -9095,8 +9263,8 @@
         },
         "common_a_17.png": {
             "frame": {
-                "x": 78,
-                "y": 97,
+                "x": 422,
+                "y": 780,
                 "w": 23,
                 "h": 21,
                 "idx": 1
@@ -9116,8 +9284,8 @@
         },
         "r-24.png": {
             "frame": {
-                "x": 169,
-                "y": 887,
+                "x": 636,
+                "y": 856,
                 "w": 228,
                 "h": 2,
                 "idx": 1
@@ -9137,8 +9305,8 @@
         },
         "icon_19.png": {
             "frame": {
-                "x": 202,
-                "y": 784,
+                "x": 160,
+                "y": 705,
                 "w": 35,
                 "h": 13,
                 "idx": 1
@@ -9158,8 +9326,8 @@
         },
         "building_10.png": {
             "frame": {
-                "x": 554,
-                "y": 629,
+                "x": 78,
+                "y": 97,
                 "w": 21,
                 "h": 21,
                 "idx": 1
@@ -9179,8 +9347,8 @@
         },
         "building_09.png": {
             "frame": {
-                "x": 749,
-                "y": 596,
+                "x": 115,
+                "y": 780,
                 "w": 22,
                 "h": 20,
                 "idx": 1
@@ -9200,8 +9368,8 @@
         },
         "icon_45.png": {
             "frame": {
-                "x": 758,
-                "y": 659,
+                "x": 72,
+                "y": 448,
                 "w": 4,
                 "h": 109,
                 "idx": 1
@@ -9221,8 +9389,8 @@
         },
         "building_07.png": {
             "frame": {
-                "x": 794,
-                "y": 543,
+                "x": 427,
+                "y": 404,
                 "w": 7,
                 "h": 61,
                 "idx": 1
@@ -9242,8 +9410,8 @@
         },
         "common_b_35.png": {
             "frame": {
-                "x": 803,
-                "y": 543,
+                "x": 664,
+                "y": 728,
                 "w": 6,
                 "h": 71,
                 "idx": 1
@@ -9261,31 +9429,10 @@
             "rotated": false,
             "trimed": false
         },
-        "common_a_16.png": {
-            "frame": {
-                "x": 93,
-                "y": 721,
-                "w": 20,
-                "h": 21,
-                "idx": 1
-            },
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 20,
-                "h": 21
-            },
-            "sourceSize": {
-                "w": 20,
-                "h": 21
-            },
-            "rotated": false,
-            "trimed": false
-        },
         "building_08.png": {
             "frame": {
-                "x": 259,
-                "y": 294,
+                "x": 218,
+                "y": 765,
                 "w": 21,
                 "h": 20,
                 "idx": 1
@@ -9303,10 +9450,31 @@
             "rotated": false,
             "trimed": false
         },
+        "common_a_16.png": {
+            "frame": {
+                "x": 218,
+                "y": 787,
+                "w": 20,
+                "h": 21,
+                "idx": 1
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 20,
+                "h": 21
+            },
+            "sourceSize": {
+                "w": 20,
+                "h": 21
+            },
+            "rotated": false,
+            "trimed": false
+        },
         "building_12.png": {
             "frame": {
-                "x": 519,
-                "y": 403,
+                "x": 578,
+                "y": 871,
                 "w": 21,
                 "h": 20,
                 "idx": 1
@@ -9326,8 +9494,8 @@
         },
         "common_a_11.png": {
             "frame": {
-                "x": 305,
-                "y": 812,
+                "x": 601,
+                "y": 839,
                 "w": 11,
                 "h": 38,
                 "idx": 1
@@ -9347,8 +9515,8 @@
         },
         "common_a_18.png": {
             "frame": {
-                "x": 390,
-                "y": 867,
+                "x": 597,
+                "y": 639,
                 "w": 22,
                 "h": 17,
                 "idx": 1
@@ -9368,8 +9536,8 @@
         },
         "icon_52.png": {
             "frame": {
-                "x": 558,
-                "y": 704,
+                "x": 55,
+                "y": 781,
                 "w": 7,
                 "h": 53,
                 "idx": 1
@@ -9389,8 +9557,8 @@
         },
         "icon_43.png": {
             "frame": {
-                "x": 329,
-                "y": 418,
+                "x": 473,
+                "y": 552,
                 "w": 61,
                 "h": 6,
                 "idx": 1
@@ -9410,8 +9578,8 @@
         },
         "dog1_15.png": {
             "frame": {
-                "x": 715,
-                "y": 633,
+                "x": 781,
+                "y": 627,
                 "w": 120,
                 "h": 3,
                 "idx": 1
@@ -9431,8 +9599,8 @@
         },
         "icon_57.png": {
             "frame": {
-                "x": 324,
-                "y": 720,
+                "x": 197,
+                "y": 661,
                 "w": 51,
                 "h": 7,
                 "idx": 1
@@ -9452,8 +9620,8 @@
         },
         "dog1_90.png": {
             "frame": {
-                "x": 567,
-                "y": 739,
+                "x": 781,
+                "y": 632,
                 "w": 115,
                 "h": 3,
                 "idx": 1
@@ -9473,8 +9641,8 @@
         },
         "icon_64.png": {
             "frame": {
-                "x": 684,
-                "y": 722,
+                "x": 918,
+                "y": 493,
                 "w": 7,
                 "h": 49,
                 "idx": 1
@@ -9494,8 +9662,8 @@
         },
         "common_a_38.png": {
             "frame": {
-                "x": 666,
-                "y": 498,
+                "x": 436,
+                "y": 618,
                 "w": 14,
                 "h": 24,
                 "idx": 1
@@ -9513,10 +9681,10 @@
             "rotated": false,
             "trimed": false
         },
-        "icon_16.png": {
+        "icon_71.png": {
             "frame": {
-                "x": 152,
-                "y": 356,
+                "x": 859,
+                "y": 347,
                 "w": 7,
                 "h": 47,
                 "idx": 1
@@ -9534,10 +9702,10 @@
             "rotated": false,
             "trimed": false
         },
-        "icon_71.png": {
+        "icon_16.png": {
             "frame": {
-                "x": 693,
-                "y": 722,
+                "x": 564,
+                "y": 395,
                 "w": 7,
                 "h": 47,
                 "idx": 1
@@ -9557,8 +9725,8 @@
         },
         "pet_11.png": {
             "frame": {
-                "x": 558,
-                "y": 759,
+                "x": 672,
+                "y": 772,
                 "w": 107,
                 "h": 3,
                 "idx": 1
@@ -9578,8 +9746,8 @@
         },
         "icon_55.png": {
             "frame": {
-                "x": 619,
-                "y": 722,
+                "x": 729,
+                "y": 108,
                 "w": 51,
                 "h": 6,
                 "idx": 1
@@ -9599,8 +9767,8 @@
         },
         "icon_58.png": {
             "frame": {
-                "x": 619,
-                "y": 730,
+                "x": 510,
+                "y": 639,
                 "w": 61,
                 "h": 5,
                 "idx": 1
@@ -9620,8 +9788,8 @@
         },
         "icon_47.png": {
             "frame": {
-                "x": 858,
-                "y": 323,
+                "x": 487,
+                "y": 831,
                 "w": 6,
                 "h": 49,
                 "idx": 1
@@ -9641,8 +9809,8 @@
         },
         "icon_53.png": {
             "frame": {
-                "x": 486,
-                "y": 808,
+                "x": 781,
+                "y": 647,
                 "w": 3,
                 "h": 94,
                 "idx": 1
@@ -9662,8 +9830,8 @@
         },
         "dog1_87.png": {
             "frame": {
-                "x": 875,
-                "y": 639,
+                "x": 915,
+                "y": 627,
                 "w": 1,
                 "h": 268,
                 "idx": 1
@@ -9681,31 +9849,10 @@
             "rotated": false,
             "trimed": false
         },
-        "common_a_14.png": {
-            "frame": {
-                "x": 866,
-                "y": 227,
-                "w": 6,
-                "h": 44,
-                "idx": 1
-            },
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 6,
-                "h": 44
-            },
-            "sourceSize": {
-                "w": 6,
-                "h": 44
-            },
-            "rotated": false,
-            "trimed": false
-        },
         "dog1_01.png": {
             "frame": {
-                "x": 878,
-                "y": 521,
+                "x": 918,
+                "y": 627,
                 "w": 1,
                 "h": 264,
                 "idx": 1
@@ -9723,10 +9870,31 @@
             "rotated": false,
             "trimed": false
         },
+        "common_a_14.png": {
+            "frame": {
+                "x": 248,
+                "y": 705,
+                "w": 6,
+                "h": 44,
+                "idx": 1
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 6,
+                "h": 44
+            },
+            "sourceSize": {
+                "w": 6,
+                "h": 44
+            },
+            "rotated": false,
+            "trimed": false
+        },
         "icon_56.png": {
             "frame": {
-                "x": 696,
-                "y": 436,
+                "x": 822,
+                "y": 223,
                 "w": 51,
                 "h": 5,
                 "idx": 1
@@ -9744,31 +9912,10 @@
             "rotated": false,
             "trimed": false
         },
-        "common_b_36.png": {
-            "frame": {
-                "x": 816,
-                "y": 471,
-                "w": 18,
-                "h": 14,
-                "idx": 1
-            },
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 18,
-                "h": 14
-            },
-            "sourceSize": {
-                "w": 18,
-                "h": 14
-            },
-            "rotated": false,
-            "trimed": false
-        },
         "icon_37.png": {
             "frame": {
-                "x": 731,
-                "y": 275,
+                "x": 589,
+                "y": 121,
                 "w": 63,
                 "h": 4,
                 "idx": 1
@@ -9786,10 +9933,31 @@
             "rotated": false,
             "trimed": false
         },
+        "common_b_36.png": {
+            "frame": {
+                "x": 907,
+                "y": 548,
+                "w": 18,
+                "h": 14,
+                "idx": 1
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 18,
+                "h": 14
+            },
+            "sourceSize": {
+                "w": 18,
+                "h": 14
+            },
+            "rotated": false,
+            "trimed": false
+        },
         "icon_41.png": {
             "frame": {
-                "x": 667,
-                "y": 744,
+                "x": 689,
+                "y": 693,
                 "w": 5,
                 "h": 50,
                 "idx": 1
@@ -9809,8 +9977,8 @@
         },
         "dog1_75.png": {
             "frame": {
-                "x": 702,
-                "y": 670,
+                "x": 730,
+                "y": 647,
                 "w": 2,
                 "h": 121,
                 "idx": 1
@@ -9830,8 +9998,8 @@
         },
         "pet_12.png": {
             "frame": {
-                "x": 824,
-                "y": 543,
+                "x": 734,
+                "y": 647,
                 "w": 3,
                 "h": 79,
                 "idx": 1
@@ -9851,8 +10019,8 @@
         },
         "icon_95.png": {
             "frame": {
-                "x": 886,
-                "y": 446,
+                "x": 906,
+                "y": 493,
                 "w": 7,
                 "h": 33,
                 "idx": 1
@@ -9870,31 +10038,10 @@
             "rotated": false,
             "trimed": false
         },
-        "icon_67.png": {
-            "frame": {
-                "x": 463,
-                "y": 635,
-                "w": 28,
-                "h": 8,
-                "idx": 1
-            },
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 28,
-                "h": 8
-            },
-            "sourceSize": {
-                "w": 28,
-                "h": 8
-            },
-            "rotated": false,
-            "trimed": false
-        },
         "icon_42.png": {
             "frame": {
-                "x": 520,
-                "y": 764,
+                "x": 781,
+                "y": 637,
                 "w": 112,
                 "h": 2,
                 "idx": 1
@@ -9912,10 +10059,31 @@
             "rotated": false,
             "trimed": false
         },
+        "icon_67.png": {
+            "frame": {
+                "x": 695,
+                "y": 506,
+                "w": 28,
+                "h": 8,
+                "idx": 1
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 28,
+                "h": 8
+            },
+            "sourceSize": {
+                "w": 28,
+                "h": 8
+            },
+            "rotated": false,
+            "trimed": false
+        },
         "common_a_12.png": {
             "frame": {
-                "x": 567,
-                "y": 744,
+                "x": 536,
+                "y": 554,
                 "w": 55,
                 "h": 4,
                 "idx": 1
@@ -9935,8 +10103,8 @@
         },
         "icon_77.png": {
             "frame": {
-                "x": 430,
-                "y": 867,
+                "x": 501,
+                "y": 459,
                 "w": 53,
                 "h": 4,
                 "idx": 1
@@ -9956,8 +10124,8 @@
         },
         "icon_109.png": {
             "frame": {
-                "x": 762,
-                "y": 181,
+                "x": 212,
+                "y": 326,
                 "w": 50,
                 "h": 4,
                 "idx": 1
@@ -9977,8 +10145,8 @@
         },
         "dog1_57.png": {
             "frame": {
-                "x": 610,
-                "y": 546,
+                "x": 48,
+                "y": 555,
                 "w": 22,
                 "h": 9,
                 "idx": 1
@@ -9998,8 +10166,8 @@
         },
         "icon_35.png": {
             "frame": {
-                "x": 878,
-                "y": 787,
+                "x": 573,
+                "y": 395,
                 "w": 3,
                 "h": 66,
                 "idx": 1
@@ -10019,8 +10187,8 @@
         },
         "icon_108.png": {
             "frame": {
-                "x": 68,
-                "y": 744,
+                "x": 115,
+                "y": 855,
                 "w": 48,
                 "h": 4,
                 "idx": 1
@@ -10040,8 +10208,8 @@
         },
         "icon_21.png": {
             "frame": {
-                "x": 866,
-                "y": 401,
+                "x": 542,
+                "y": 821,
                 "w": 24,
                 "h": 8,
                 "idx": 1
@@ -10061,8 +10229,8 @@
         },
         "icon_46.png": {
             "frame": {
-                "x": 85,
-                "y": 356,
+                "x": 729,
+                "y": 116,
                 "w": 62,
                 "h": 3,
                 "idx": 1
@@ -10082,8 +10250,8 @@
         },
         "r-13.png": {
             "frame": {
-                "x": 842,
-                "y": 521,
+                "x": 739,
+                "y": 647,
                 "w": 2,
                 "h": 85,
                 "idx": 1
@@ -10103,8 +10271,8 @@
         },
         "icon_65.png": {
             "frame": {
-                "x": 394,
-                "y": 805,
+                "x": 160,
+                "y": 601,
                 "w": 3,
                 "h": 56,
                 "idx": 1
@@ -10124,8 +10292,8 @@
         },
         "icon_59.png": {
             "frame": {
-                "x": 259,
-                "y": 372,
+                "x": 185,
+                "y": 898,
                 "w": 31,
                 "h": 5,
                 "idx": 1
@@ -10145,8 +10313,8 @@
         },
         "dog1_45.png": {
             "frame": {
-                "x": 874,
-                "y": 262,
+                "x": 119,
+                "y": 890,
                 "w": 14,
                 "h": 11,
                 "idx": 1
@@ -10166,8 +10334,8 @@
         },
         "icon_69.png": {
             "frame": {
-                "x": 52,
-                "y": 814,
+                "x": 394,
+                "y": 404,
                 "w": 3,
                 "h": 47,
                 "idx": 1
@@ -10185,31 +10353,10 @@
             "rotated": false,
             "trimed": false
         },
-        "icon_93.png": {
-            "frame": {
-                "x": 608,
-                "y": 178,
-                "w": 46,
-                "h": 3,
-                "idx": 1
-            },
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 46,
-                "h": 3
-            },
-            "sourceSize": {
-                "w": 46,
-                "h": 3
-            },
-            "rotated": false,
-            "trimed": false
-        },
         "icon_88.png": {
             "frame": {
-                "x": 695,
-                "y": 670,
+                "x": 574,
+                "y": 673,
                 "w": 3,
                 "h": 46,
                 "idx": 1
@@ -10229,8 +10376,8 @@
         },
         "pet_18.png": {
             "frame": {
-                "x": 113,
-                "y": 810,
+                "x": 486,
+                "y": 247,
                 "w": 3,
                 "h": 46,
                 "idx": 1
@@ -10248,10 +10395,31 @@
             "rotated": false,
             "trimed": false
         },
+        "icon_93.png": {
+            "frame": {
+                "x": 264,
+                "y": 326,
+                "w": 46,
+                "h": 3,
+                "idx": 1
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 46,
+                "h": 3
+            },
+            "sourceSize": {
+                "w": 46,
+                "h": 3
+            },
+            "rotated": false,
+            "trimed": false
+        },
         "icon_50.png": {
             "frame": {
-                "x": 878,
-                "y": 855,
+                "x": 696,
+                "y": 693,
                 "w": 3,
                 "h": 45,
                 "idx": 1
@@ -10271,8 +10439,8 @@
         },
         "icon_83.png": {
             "frame": {
-                "x": 153,
-                "y": 224,
+                "x": 459,
+                "y": 500,
                 "w": 10,
                 "h": 13,
                 "idx": 1
@@ -10292,8 +10460,8 @@
         },
         "icon_33.png": {
             "frame": {
-                "x": 885,
-                "y": 136,
+                "x": 876,
+                "y": 99,
                 "w": 2,
                 "h": 63,
                 "idx": 1
@@ -10313,8 +10481,8 @@
         },
         "dog1_70.png": {
             "frame": {
-                "x": 451,
-                "y": 814,
+                "x": 578,
+                "y": 455,
                 "w": 12,
                 "h": 10,
                 "idx": 1
@@ -10334,8 +10502,8 @@
         },
         "menu_44.png": {
             "frame": {
-                "x": 794,
-                "y": 617,
+                "x": 136,
+                "y": 861,
                 "w": 28,
                 "h": 4,
                 "idx": 1
@@ -10353,31 +10521,10 @@
             "rotated": false,
             "trimed": false
         },
-        "icon_25.png": {
-            "frame": {
-                "x": 328,
-                "y": 696,
-                "w": 50,
-                "h": 2,
-                "idx": 1
-            },
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 50,
-                "h": 2
-            },
-            "sourceSize": {
-                "w": 50,
-                "h": 2
-            },
-            "rotated": false,
-            "trimed": false
-        },
         "icon_74.png": {
             "frame": {
-                "x": 674,
-                "y": 744,
+                "x": 924,
+                "y": 418,
                 "w": 2,
                 "h": 50,
                 "idx": 1
@@ -10395,10 +10542,31 @@
             "rotated": false,
             "trimed": false
         },
+        "icon_25.png": {
+            "frame": {
+                "x": 390,
+                "y": 893,
+                "w": 50,
+                "h": 2,
+                "idx": 1
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 50,
+                "h": 2
+            },
+            "sourceSize": {
+                "w": 50,
+                "h": 2
+            },
+            "rotated": false,
+            "trimed": false
+        },
         "icon_31.png": {
             "frame": {
-                "x": 202,
-                "y": 799,
+                "x": 815,
+                "y": 495,
                 "w": 33,
                 "h": 3,
                 "idx": 1
@@ -10418,8 +10586,8 @@
         },
         "icon_110.png": {
             "frame": {
-                "x": 788,
-                "y": 439,
+                "x": 549,
+                "y": 560,
                 "w": 46,
                 "h": 2,
                 "idx": 1
@@ -10439,8 +10607,8 @@
         },
         "icon_61.png": {
             "frame": {
-                "x": 78,
-                "y": 120,
+                "x": 422,
+                "y": 803,
                 "w": 25,
                 "h": 3,
                 "idx": 1
@@ -10460,8 +10628,8 @@
         },
         "icon_85.png": {
             "frame": {
-                "x": 275,
-                "y": 636,
+                "x": 908,
+                "y": 124,
                 "w": 18,
                 "h": 4,
                 "idx": 1
@@ -10481,8 +10649,8 @@
         },
         "icon_29.png": {
             "frame": {
-                "x": 412,
-                "y": 228,
+                "x": 811,
+                "y": 285,
                 "w": 30,
                 "h": 2,
                 "idx": 1
@@ -10502,8 +10670,8 @@
         },
         "dog1_60.png": {
             "frame": {
-                "x": 834,
-                "y": 374,
+                "x": 811,
+                "y": 289,
                 "w": 29,
                 "h": 2,
                 "idx": 1
@@ -10523,8 +10691,8 @@
         },
         "icon_81.png": {
             "frame": {
-                "x": 433,
-                "y": 686,
+                "x": 470,
+                "y": 771,
                 "w": 7,
                 "h": 7,
                 "idx": 1
@@ -10544,8 +10712,8 @@
         },
         "common_a_20.png": {
             "frame": {
-                "x": 866,
-                "y": 202,
+                "x": 751,
+                "y": 220,
                 "w": 6,
                 "h": 8,
                 "idx": 1
@@ -10565,8 +10733,8 @@
         },
         "dog1_30.png": {
             "frame": {
-                "x": 392,
-                "y": 418,
+                "x": 898,
+                "y": 632,
                 "w": 6,
                 "h": 5,
                 "idx": 1
@@ -10586,8 +10754,8 @@
         },
         "icon_08.png": {
             "frame": {
-                "x": 814,
-                "y": 623,
+                "x": 681,
+                "y": 653,
                 "w": 5,
                 "h": 5,
                 "idx": 1
@@ -10605,31 +10773,10 @@
             "rotated": false,
             "trimed": false
         },
-        "dog1_73.png": {
-            "frame": {
-                "x": 772,
-                "y": 521,
-                "w": 8,
-                "h": 3,
-                "idx": 1
-            },
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 8,
-                "h": 3
-            },
-            "sourceSize": {
-                "w": 8,
-                "h": 3
-            },
-            "rotated": false,
-            "trimed": false
-        },
         "dog1_39.png": {
             "frame": {
-                "x": 717,
-                "y": 565,
+                "x": 782,
+                "y": 108,
                 "w": 6,
                 "h": 4,
                 "idx": 1
@@ -10649,8 +10796,29 @@
         },
         "dog1_17.png": {
             "frame": {
-                "x": 672,
-                "y": 722,
+                "x": 847,
+                "y": 347,
+                "w": 8,
+                "h": 3,
+                "idx": 1
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 8,
+                "h": 3
+            },
+            "sourceSize": {
+                "w": 8,
+                "h": 3
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "dog1_73.png": {
+            "frame": {
+                "x": 301,
+                "y": 395,
                 "w": 8,
                 "h": 3,
                 "idx": 1
@@ -10670,8 +10838,8 @@
         },
         "icon_49.png": {
             "frame": {
-                "x": 722,
-                "y": 230,
+                "x": 573,
+                "y": 639,
                 "w": 5,
                 "h": 3,
                 "idx": 1
@@ -10691,8 +10859,8 @@
         },
         "dog1_89.png": {
             "frame": {
-                "x": 237,
-                "y": 799,
+                "x": 842,
+                "y": 289,
                 "w": 3,
                 "h": 3,
                 "idx": 1
@@ -10712,8 +10880,8 @@
         },
         "icon_90.png": {
             "frame": {
-                "x": 695,
-                "y": 718,
+                "x": 573,
+                "y": 644,
                 "w": 4,
                 "h": 2,
                 "idx": 1
