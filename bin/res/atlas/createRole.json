@@ -44,27 +44,6 @@
         },
         "headerPicBg.png": {
             "frame": {
-                "x": 0,
-                "y": 281,
-                "w": 170,
-                "h": 179,
-                "idx": 0
-            },
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 170,
-                "h": 179
-            },
-            "sourceSize": {
-                "w": 170,
-                "h": 179
-            },
-            "rotated": false,
-            "trimed": false
-        },
-        "headerPicBgSel.png": {
-            "frame": {
                 "x": 174,
                 "y": 100,
                 "w": 170,
@@ -84,9 +63,51 @@
             "rotated": false,
             "trimed": false
         },
+        "headerPicBgSel.png": {
+            "frame": {
+                "x": 346,
+                "y": 100,
+                "w": 170,
+                "h": 179,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 170,
+                "h": 179
+            },
+            "sourceSize": {
+                "w": 170,
+                "h": 179
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "B3.png": {
+            "frame": {
+                "x": 0,
+                "y": 281,
+                "w": 135,
+                "h": 130,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 135,
+                "h": 130
+            },
+            "sourceSize": {
+                "w": 135,
+                "h": 130
+            },
+            "rotated": false,
+            "trimed": false
+        },
         "head_1.png": {
             "frame": {
-                "x": 172,
+                "x": 137,
                 "y": 281,
                 "w": 135,
                 "h": 130,
@@ -107,8 +128,8 @@
         },
         "head_2.png": {
             "frame": {
-                "x": 379,
-                "y": 0,
+                "x": 274,
+                "y": 281,
                 "w": 135,
                 "h": 130,
                 "idx": 0
@@ -128,8 +149,8 @@
         },
         "head_3.png": {
             "frame": {
-                "x": 346,
-                "y": 132,
+                "x": 411,
+                "y": 281,
                 "w": 135,
                 "h": 130,
                 "idx": 0
@@ -149,7 +170,7 @@
         },
         "head_4.png": {
             "frame": {
-                "x": 172,
+                "x": 0,
                 "y": 413,
                 "w": 135,
                 "h": 130,
@@ -170,8 +191,8 @@
         },
         "head_5.png": {
             "frame": {
-                "x": 309,
-                "y": 281,
+                "x": 137,
+                "y": 413,
                 "w": 135,
                 "h": 130,
                 "idx": 0
@@ -191,7 +212,7 @@
         },
         "head_6.png": {
             "frame": {
-                "x": 309,
+                "x": 274,
                 "y": 413,
                 "w": 135,
                 "h": 130,
@@ -212,8 +233,8 @@
         },
         "inputBg.png": {
             "frame": {
-                "x": 0,
-                "y": 462,
+                "x": 379,
+                "y": 0,
                 "w": 75,
                 "h": 62,
                 "idx": 0

@@ -21,10 +21,94 @@
             "rotated": false,
             "trimed": false
         },
-        "dialogvBg.png": {
+        "skin3.png": {
             "frame": {
                 "x": 491,
                 "y": 0,
+                "w": 460,
+                "h": 284,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 460,
+                "h": 284
+            },
+            "sourceSize": {
+                "w": 460,
+                "h": 284
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "skin4.png": {
+            "frame": {
+                "x": 491,
+                "y": 286,
+                "w": 460,
+                "h": 284,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 460,
+                "h": 284
+            },
+            "sourceSize": {
+                "w": 460,
+                "h": 284
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "skin1.png": {
+            "frame": {
+                "x": 0,
+                "y": 338,
+                "w": 460,
+                "h": 284,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 460,
+                "h": 284
+            },
+            "sourceSize": {
+                "w": 460,
+                "h": 284
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "skin2.png": {
+            "frame": {
+                "x": 0,
+                "y": 624,
+                "w": 460,
+                "h": 284,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 460,
+                "h": 284
+            },
+            "sourceSize": {
+                "w": 460,
+                "h": 284
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "dialogvBg.png": {
+            "frame": {
+                "x": 0,
+                "y": 910,
                 "w": 260,
                 "h": 358,
                 "idx": 0
@@ -44,8 +128,8 @@
         },
         "landGrade_listBg.png": {
             "frame": {
-                "x": 0,
-                "y": 360,
+                "x": 262,
+                "y": 910,
                 "w": 505,
                 "h": 161,
                 "idx": 0
@@ -65,8 +149,8 @@
         },
         "tipDialogBg.png": {
             "frame": {
-                "x": 753,
-                "y": 0,
+                "x": 262,
+                "y": 1073,
                 "w": 290,
                 "h": 220,
                 "idx": 0
@@ -86,8 +170,8 @@
         },
         "myHouse.png": {
             "frame": {
-                "x": 753,
-                "y": 222,
+                "x": 554,
+                "y": 1073,
                 "w": 292,
                 "h": 211,
                 "idx": 0
@@ -105,10 +189,10 @@
             "rotated": false,
             "trimed": false
         },
-        "rechargeDec2.png": {
+        "rechargeDec1.png": {
             "frame": {
-                "x": 507,
-                "y": 360,
+                "x": 462,
+                "y": 572,
                 "w": 170,
                 "h": 264,
                 "idx": 0
@@ -126,10 +210,10 @@
             "rotated": false,
             "trimed": false
         },
-        "rechargeDec1.png": {
+        "rechargeDec2.png": {
             "frame": {
-                "x": 679,
-                "y": 435,
+                "x": 634,
+                "y": 572,
                 "w": 170,
                 "h": 264,
                 "idx": 0
@@ -149,8 +233,8 @@
         },
         "land_iconBg.png": {
             "frame": {
-                "x": 851,
-                "y": 435,
+                "x": 769,
+                "y": 838,
                 "w": 175,
                 "h": 218,
                 "idx": 0
@@ -170,8 +254,8 @@
         },
         "createRoleTitle.png": {
             "frame": {
-                "x": 0,
-                "y": 523,
+                "x": 953,
+                "y": 0,
                 "w": 377,
                 "h": 98,
                 "idx": 0
@@ -191,8 +275,8 @@
         },
         "glodDot.png": {
             "frame": {
-                "x": 0,
-                "y": 623,
+                "x": 806,
+                "y": 572,
                 "w": 172,
                 "h": 179,
                 "idx": 0
@@ -212,8 +296,8 @@
         },
         "headerPicBg.png": {
             "frame": {
-                "x": 174,
-                "y": 623,
+                "x": 848,
+                "y": 1058,
                 "w": 170,
                 "h": 179,
                 "idx": 0
@@ -233,8 +317,8 @@
         },
         "headerPicBgSel.png": {
             "frame": {
-                "x": 346,
-                "y": 626,
+                "x": 946,
+                "y": 753,
                 "w": 170,
                 "h": 179,
                 "idx": 0
@@ -254,8 +338,8 @@
         },
         "rank_list_bg.png": {
             "frame": {
-                "x": 518,
-                "y": 701,
+                "x": 953,
+                "y": 100,
                 "w": 430,
                 "h": 57,
                 "idx": 0
@@ -275,8 +359,8 @@
         },
         "shopTitle.png": {
             "frame": {
-                "x": 518,
-                "y": 760,
+                "x": 0,
+                "y": 1295,
                 "w": 262,
                 "h": 87,
                 "idx": 0
@@ -296,8 +380,8 @@
         },
         "house_gradeTitle.png": {
             "frame": {
-                "x": 782,
-                "y": 760,
+                "x": 264,
+                "y": 1295,
                 "w": 261,
                 "h": 87,
                 "idx": 0
@@ -315,10 +399,52 @@
             "rotated": false,
             "trimed": false
         },
+        "skin_active_title.png": {
+            "frame": {
+                "x": 527,
+                "y": 1295,
+                "w": 270,
+                "h": 83,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 270,
+                "h": 83
+            },
+            "sourceSize": {
+                "w": 270,
+                "h": 83
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "enterPotTitle.png": {
+            "frame": {
+                "x": 799,
+                "y": 1286,
+                "w": 262,
+                "h": 83,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 262,
+                "h": 83
+            },
+            "sourceSize": {
+                "w": 262,
+                "h": 83
+            },
+            "rotated": false,
+            "trimed": false
+        },
         "house_gradeWoodSign.png": {
             "frame": {
-                "x": 0,
-                "y": 804,
+                "x": 1063,
+                "y": 934,
                 "w": 315,
                 "h": 64,
                 "idx": 0
@@ -338,8 +464,8 @@
         },
         "shopListItemBg.png": {
             "frame": {
-                "x": 317,
-                "y": 807,
+                "x": 1118,
+                "y": 159,
                 "w": 178,
                 "h": 109,
                 "idx": 0
@@ -357,52 +483,10 @@
             "rotated": false,
             "trimed": false
         },
-        "head_1.png": {
-            "frame": {
-                "x": 497,
-                "y": 849,
-                "w": 135,
-                "h": 130,
-                "idx": 0
-            },
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 135,
-                "h": 130
-            },
-            "sourceSize": {
-                "w": 135,
-                "h": 130
-            },
-            "rotated": false,
-            "trimed": false
-        },
-        "head_2.png": {
-            "frame": {
-                "x": 634,
-                "y": 849,
-                "w": 135,
-                "h": 130,
-                "idx": 0
-            },
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 135,
-                "h": 130
-            },
-            "sourceSize": {
-                "w": 135,
-                "h": 130
-            },
-            "rotated": false,
-            "trimed": false
-        },
         "head_3.png": {
             "frame": {
-                "x": 771,
-                "y": 849,
+                "x": 980,
+                "y": 159,
                 "w": 135,
                 "h": 130,
                 "idx": 0
@@ -422,8 +506,8 @@
         },
         "head_4.png": {
             "frame": {
-                "x": 908,
-                "y": 849,
+                "x": 1118,
+                "y": 270,
                 "w": 135,
                 "h": 130,
                 "idx": 0
@@ -443,8 +527,8 @@
         },
         "head_5.png": {
             "frame": {
-                "x": 0,
-                "y": 870,
+                "x": 980,
+                "y": 291,
                 "w": 135,
                 "h": 130,
                 "idx": 0
@@ -464,8 +548,71 @@
         },
         "head_6.png": {
             "frame": {
-                "x": 137,
-                "y": 870,
+                "x": 1255,
+                "y": 270,
+                "w": 135,
+                "h": 130,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 135,
+                "h": 130
+            },
+            "sourceSize": {
+                "w": 135,
+                "h": 130
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "headf.png": {
+            "frame": {
+                "x": 953,
+                "y": 423,
+                "w": 135,
+                "h": 130,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 135,
+                "h": 130
+            },
+            "sourceSize": {
+                "w": 135,
+                "h": 130
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "head_2.png": {
+            "frame": {
+                "x": 980,
+                "y": 555,
+                "w": 135,
+                "h": 130,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 135,
+                "h": 130
+            },
+            "sourceSize": {
+                "w": 135,
+                "h": 130
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "head_1.png": {
+            "frame": {
+                "x": 1090,
+                "y": 423,
                 "w": 135,
                 "h": 130,
                 "idx": 0
@@ -485,8 +632,8 @@
         },
         "jewelBig.png": {
             "frame": {
-                "x": 274,
-                "y": 918,
+                "x": 1227,
+                "y": 402,
                 "w": 142,
                 "h": 117,
                 "idx": 0
@@ -506,8 +653,8 @@
         },
         "jewelNormal.png": {
             "frame": {
-                "x": 418,
-                "y": 981,
+                "x": 1227,
+                "y": 521,
                 "w": 132,
                 "h": 109,
                 "idx": 0
@@ -527,8 +674,8 @@
         },
         "jewelLittle.png": {
             "frame": {
-                "x": 552,
-                "y": 981,
+                "x": 1117,
+                "y": 632,
                 "w": 119,
                 "h": 114,
                 "idx": 0
@@ -548,8 +695,8 @@
         },
         "alertLayer.png": {
             "frame": {
-                "x": 673,
-                "y": 981,
+                "x": 946,
+                "y": 934,
                 "w": 108,
                 "h": 116,
                 "idx": 0
@@ -569,8 +716,8 @@
         },
         "rechargeTitle.png": {
             "frame": {
-                "x": 950,
-                "y": 655,
+                "x": 1238,
+                "y": 632,
                 "w": 142,
                 "h": 85,
                 "idx": 0
@@ -590,8 +737,8 @@
         },
         "tipTitle.png": {
             "frame": {
-                "x": 783,
-                "y": 981,
+                "x": 1238,
+                "y": 719,
                 "w": 141,
                 "h": 85,
                 "idx": 0
@@ -609,10 +756,31 @@
             "rotated": false,
             "trimed": false
         },
+        "decoTitle.png": {
+            "frame": {
+                "x": 1118,
+                "y": 806,
+                "w": 143,
+                "h": 83,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 143,
+                "h": 83
+            },
+            "sourceSize": {
+                "w": 143,
+                "h": 83
+            },
+            "rotated": false,
+            "trimed": false
+        },
         "grade_btnBg.png": {
             "frame": {
-                "x": 518,
-                "y": 626,
+                "x": 462,
+                "y": 838,
                 "w": 158,
                 "h": 67,
                 "idx": 0
@@ -632,8 +800,8 @@
         },
         "house_levelSign.png": {
             "frame": {
-                "x": 379,
-                "y": 523,
+                "x": 1263,
+                "y": 806,
                 "w": 117,
                 "h": 86,
                 "idx": 0
@@ -651,10 +819,31 @@
             "rotated": false,
             "trimed": false
         },
+        "decoIcon.png": {
+            "frame": {
+                "x": 1298,
+                "y": 159,
+                "w": 87,
+                "h": 104,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 87,
+                "h": 104
+            },
+            "sourceSize": {
+                "w": 87,
+                "h": 104
+            },
+            "rotated": false,
+            "trimed": false
+        },
         "house_gradeIcon.png": {
             "frame": {
-                "x": 926,
-                "y": 981,
+                "x": 1020,
+                "y": 1052,
                 "w": 96,
                 "h": 85,
                 "idx": 0
@@ -672,10 +861,31 @@
             "rotated": false,
             "trimed": false
         },
+        "enterPotIcon.png": {
+            "frame": {
+                "x": 1020,
+                "y": 1139,
+                "w": 81,
+                "h": 89,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 81,
+                "h": 89
+            },
+            "sourceSize": {
+                "w": 81,
+                "h": 89
+            },
+            "rotated": false,
+            "trimed": false
+        },
         "rechargeIcon.png": {
             "frame": {
-                "x": 1028,
-                "y": 435,
+                "x": 1063,
+                "y": 1230,
                 "w": 72,
                 "h": 95,
                 "idx": 0
@@ -695,8 +905,8 @@
         },
         "shopIcon.png": {
             "frame": {
-                "x": 1028,
-                "y": 532,
+                "x": 806,
+                "y": 753,
                 "w": 83,
                 "h": 76,
                 "idx": 0
@@ -716,8 +926,8 @@
         },
         "gold_landIcon.png": {
             "frame": {
-                "x": 0,
-                "y": 1002,
+                "x": 622,
+                "y": 838,
                 "w": 92,
                 "h": 65,
                 "idx": 0
@@ -737,8 +947,8 @@
         },
         "dialogBg.png": {
             "frame": {
-                "x": 1024,
-                "y": 981,
+                "x": 1103,
+                "y": 1139,
                 "w": 74,
                 "h": 77,
                 "idx": 0
@@ -758,8 +968,8 @@
         },
         "black_landIcon.png": {
             "frame": {
-                "x": 94,
-                "y": 1002,
+                "x": 980,
+                "y": 687,
                 "w": 87,
                 "h": 62,
                 "idx": 0
@@ -779,8 +989,8 @@
         },
         "seeditemBg.png": {
             "frame": {
-                "x": 183,
-                "y": 1002,
+                "x": 1117,
+                "y": 555,
                 "w": 75,
                 "h": 71,
                 "idx": 0
@@ -800,8 +1010,8 @@
         },
         "red_landIcon.png": {
             "frame": {
-                "x": 260,
-                "y": 1037,
+                "x": 1118,
+                "y": 1000,
                 "w": 85,
                 "h": 60,
                 "idx": 0
@@ -821,8 +1031,8 @@
         },
         "tableActive.png": {
             "frame": {
-                "x": 783,
-                "y": 1068,
+                "x": 1063,
+                "y": 1327,
                 "w": 105,
                 "h": 47,
                 "idx": 0
@@ -842,8 +1052,8 @@
         },
         "tipDiaDecora.png": {
             "frame": {
-                "x": 679,
-                "y": 360,
+                "x": 1118,
+                "y": 1062,
                 "w": 72,
                 "h": 68,
                 "idx": 0
@@ -863,8 +1073,8 @@
         },
         "inputBg.png": {
             "frame": {
-                "x": 1024,
-                "y": 1060,
+                "x": 1137,
+                "y": 1218,
                 "w": 75,
                 "h": 62,
                 "idx": 0
@@ -884,8 +1094,8 @@
         },
         "bigBtn.png": {
             "frame": {
-                "x": 890,
-                "y": 1068,
+                "x": 1118,
+                "y": 748,
                 "w": 91,
                 "h": 47,
                 "idx": 0
@@ -905,7 +1115,7 @@
         },
         "rank_list_home.png": {
             "frame": {
-                "x": 1045,
+                "x": 1332,
                 "y": 0,
                 "w": 62,
                 "h": 60,
@@ -924,10 +1134,73 @@
             "rotated": false,
             "trimed": false
         },
+        "petFood1.png": {
+            "frame": {
+                "x": 1179,
+                "y": 1132,
+                "w": 59,
+                "h": 63,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 59,
+                "h": 63
+            },
+            "sourceSize": {
+                "w": 59,
+                "h": 63
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "petFood3.png": {
+            "frame": {
+                "x": 1192,
+                "y": 1062,
+                "w": 58,
+                "h": 62,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 58,
+                "h": 62
+            },
+            "sourceSize": {
+                "w": 58,
+                "h": 62
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "petFood4.png": {
+            "frame": {
+                "x": 1170,
+                "y": 1282,
+                "w": 56,
+                "h": 63,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 56,
+                "h": 63
+            },
+            "sourceSize": {
+                "w": 56,
+                "h": 63
+            },
+            "rotated": false,
+            "trimed": false
+        },
         "tableNormal.png": {
             "frame": {
-                "x": 851,
-                "y": 655,
+                "x": 1118,
+                "y": 891,
                 "w": 88,
                 "h": 40,
                 "idx": 0
@@ -945,10 +1218,73 @@
             "rotated": false,
             "trimed": false
         },
+        "prop_wartering.png": {
+            "frame": {
+                "x": 1205,
+                "y": 1000,
+                "w": 66,
+                "h": 53,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 66,
+                "h": 53
+            },
+            "sourceSize": {
+                "w": 66,
+                "h": 53
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "petFood2.png": {
+            "frame": {
+                "x": 1214,
+                "y": 1197,
+                "w": 56,
+                "h": 62,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 56,
+                "h": 62
+            },
+            "sourceSize": {
+                "w": 56,
+                "h": 62
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "prop_goldsoil.png": {
+            "frame": {
+                "x": 1240,
+                "y": 1126,
+                "w": 56,
+                "h": 60,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 56,
+                "h": 60
+            },
+            "sourceSize": {
+                "w": 56,
+                "h": 60
+            },
+            "rotated": false,
+            "trimed": false
+        },
         "nut.png": {
             "frame": {
-                "x": 1045,
-                "y": 62,
+                "x": 1252,
+                "y": 1055,
                 "w": 59,
                 "h": 56,
                 "idx": 0
@@ -968,8 +1304,8 @@
         },
         "peony.png": {
             "frame": {
-                "x": 1045,
-                "y": 120,
+                "x": 1273,
+                "y": 1000,
                 "w": 58,
                 "h": 52,
                 "idx": 0
@@ -989,8 +1325,8 @@
         },
         "chili.png": {
             "frame": {
-                "x": 1047,
-                "y": 174,
+                "x": 1333,
+                "y": 1000,
                 "w": 54,
                 "h": 53,
                 "idx": 0
@@ -1010,8 +1346,8 @@
         },
         "turnip.png": {
             "frame": {
-                "x": 1047,
-                "y": 229,
+                "x": 716,
+                "y": 838,
                 "w": 51,
                 "h": 56,
                 "idx": 0
@@ -1031,8 +1367,8 @@
         },
         "rose.png": {
             "frame": {
-                "x": 1047,
-                "y": 287,
+                "x": 891,
+                "y": 753,
                 "w": 53,
                 "h": 53,
                 "idx": 0
@@ -1052,8 +1388,8 @@
         },
         "header_wood.png": {
             "frame": {
-                "x": 1047,
-                "y": 342,
+                "x": 1056,
+                "y": 1000,
                 "w": 56,
                 "h": 50,
                 "idx": 0
@@ -1071,31 +1407,52 @@
             "rotated": false,
             "trimed": false
         },
-        "grade_btnIcon.png": {
+        "prop_weeding.png": {
             "frame": {
-                "x": 1045,
-                "y": 742,
-                "w": 50,
-                "h": 55,
+                "x": 1313,
+                "y": 1055,
+                "w": 47,
+                "h": 59,
                 "idx": 0
             },
             "spriteSourceSize": {
                 "x": 0,
                 "y": 0,
-                "w": 50,
-                "h": 55
+                "w": 47,
+                "h": 59
             },
             "sourceSize": {
-                "w": 50,
-                "h": 55
+                "w": 47,
+                "h": 59
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "prop_insecticide.png": {
+            "frame": {
+                "x": 1069,
+                "y": 687,
+                "w": 46,
+                "h": 58,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 46,
+                "h": 58
+            },
+            "sourceSize": {
+                "w": 46,
+                "h": 58
             },
             "rotated": false,
             "trimed": false
         },
         "jwelIcon.png": {
             "frame": {
-                "x": 1045,
-                "y": 799,
+                "x": 1298,
+                "y": 1116,
                 "w": 51,
                 "h": 52,
                 "idx": 0
@@ -1115,8 +1472,8 @@
         },
         "okra.png": {
             "frame": {
-                "x": 1045,
-                "y": 853,
+                "x": 1351,
+                "y": 1116,
                 "w": 46,
                 "h": 57,
                 "idx": 0
@@ -1136,8 +1493,8 @@
         },
         "pumpkin.png": {
             "frame": {
-                "x": 1045,
-                "y": 912,
+                "x": 1298,
+                "y": 1175,
                 "w": 57,
                 "h": 46,
                 "idx": 0
@@ -1157,8 +1514,29 @@
         },
         "littleTipBg.png": {
             "frame": {
-                "x": 418,
-                "y": 918,
+                "x": 1272,
+                "y": 1223,
+                "w": 55,
+                "h": 46,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 55,
+                "h": 46
+            },
+            "sourceSize": {
+                "w": 55,
+                "h": 46
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "logListBg.png": {
+            "frame": {
+                "x": 1329,
+                "y": 1223,
                 "w": 55,
                 "h": 46,
                 "idx": 0
@@ -1178,8 +1556,8 @@
         },
         "ginseng.png": {
             "frame": {
-                "x": 347,
-                "y": 1037,
+                "x": 1228,
+                "y": 1271,
                 "w": 54,
                 "h": 46,
                 "idx": 0
@@ -1199,8 +1577,8 @@
         },
         "kiwiBerry.png": {
             "frame": {
-                "x": 1047,
-                "y": 394,
+                "x": 848,
+                "y": 1239,
                 "w": 61,
                 "h": 39,
                 "idx": 0
@@ -1220,8 +1598,8 @@
         },
         "waterMalen.png": {
             "frame": {
-                "x": 94,
-                "y": 1066,
+                "x": 1228,
+                "y": 1319,
                 "w": 49,
                 "h": 48,
                 "idx": 0
@@ -1241,8 +1619,8 @@
         },
         "apple.png": {
             "frame": {
-                "x": 0,
-                "y": 1069,
+                "x": 1279,
+                "y": 1319,
                 "w": 48,
                 "h": 48,
                 "idx": 0
@@ -1260,10 +1638,52 @@
             "rotated": false,
             "trimed": false
         },
+        "green_gem.png": {
+            "frame": {
+                "x": 911,
+                "y": 1239,
+                "w": 53,
+                "h": 43,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 53,
+                "h": 43
+            },
+            "sourceSize": {
+                "w": 53,
+                "h": 43
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "yellow_gem.png": {
+            "frame": {
+                "x": 966,
+                "y": 1239,
+                "w": 51,
+                "h": 44,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 51,
+                "h": 44
+            },
+            "sourceSize": {
+                "w": 51,
+                "h": 44
+            },
+            "rotated": false,
+            "trimed": false
+        },
         "nexPage.png": {
             "frame": {
-                "x": 145,
-                "y": 1075,
+                "x": 1284,
+                "y": 1271,
                 "w": 49,
                 "h": 44,
                 "idx": 0
@@ -1281,10 +1701,52 @@
             "rotated": false,
             "trimed": false
         },
+        "purple_gem.png": {
+            "frame": {
+                "x": 1335,
+                "y": 1271,
+                "w": 51,
+                "h": 42,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 51,
+                "h": 42
+            },
+            "sourceSize": {
+                "w": 51,
+                "h": 42
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "grade_btnIcon.png": {
+            "frame": {
+                "x": 1361,
+                "y": 521,
+                "w": 40,
+                "h": 53,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 40,
+                "h": 53
+            },
+            "sourceSize": {
+                "w": 40,
+                "h": 53
+            },
+            "rotated": false,
+            "trimed": false
+        },
         "prePage.png": {
             "frame": {
-                "x": 1028,
-                "y": 610,
+                "x": 1335,
+                "y": 1315,
                 "w": 49,
                 "h": 42,
                 "idx": 0
@@ -1302,10 +1764,31 @@
             "rotated": false,
             "trimed": false
         },
+        "blue_gem.png": {
+            "frame": {
+                "x": 1208,
+                "y": 891,
+                "w": 51,
+                "h": 40,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 51,
+                "h": 40
+            },
+            "sourceSize": {
+                "w": 51,
+                "h": 40
+            },
+            "rotated": false,
+            "trimed": false
+        },
         "stopry.png": {
             "frame": {
-                "x": 50,
-                "y": 1069,
+                "x": 1361,
+                "y": 576,
                 "w": 40,
                 "h": 51,
                 "idx": 0
@@ -1325,8 +1808,8 @@
         },
         "numBg.png": {
             "frame": {
-                "x": 274,
-                "y": 870,
+                "x": 1170,
+                "y": 1347,
                 "w": 41,
                 "h": 35,
                 "idx": 0
@@ -1346,8 +1829,8 @@
         },
         "picStick.png": {
             "frame": {
-                "x": 983,
-                "y": 1068,
+                "x": 1261,
+                "y": 894,
                 "w": 37,
                 "h": 37,
                 "idx": 0
@@ -1365,10 +1848,31 @@
             "rotated": false,
             "trimed": false
         },
+        "hscroll$bar.png": {
+            "frame": {
+                "x": 1380,
+                "y": 894,
+                "w": 21,
+                "h": 51,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 21,
+                "h": 51
+            },
+            "sourceSize": {
+                "w": 21,
+                "h": 51
+            },
+            "rotated": false,
+            "trimed": false
+        },
         "tipDiaDecora2.png": {
             "frame": {
-                "x": 196,
-                "y": 1075,
+                "x": 1362,
+                "y": 1055,
                 "w": 36,
                 "h": 29,
                 "idx": 0
@@ -1388,8 +1892,8 @@
         },
         "seeds.png": {
             "frame": {
-                "x": 347,
-                "y": 1085,
+                "x": 1329,
+                "y": 1359,
                 "w": 45,
                 "h": 23,
                 "idx": 0
@@ -1407,10 +1911,52 @@
             "rotated": false,
             "trimed": false
         },
+        "hscroll$up.png": {
+            "frame": {
+                "x": 1380,
+                "y": 947,
+                "w": 17,
+                "h": 51,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 17,
+                "h": 51
+            },
+            "sourceSize": {
+                "w": 17,
+                "h": 51
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "hscroll$down.png": {
+            "frame": {
+                "x": 1382,
+                "y": 629,
+                "w": 17,
+                "h": 51,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 17,
+                "h": 51
+            },
+            "sourceSize": {
+                "w": 17,
+                "h": 51
+            },
+            "rotated": false,
+            "trimed": false
+        },
         "startBg.png": {
             "frame": {
-                "x": 1079,
-                "y": 610,
+                "x": 1362,
+                "y": 1086,
                 "w": 29,
                 "h": 28,
                 "idx": 0
@@ -1428,10 +1974,31 @@
             "rotated": false,
             "trimed": false
         },
+        "hscroll.png": {
+            "frame": {
+                "x": 1179,
+                "y": 1197,
+                "w": 33,
+                "h": 17,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 33,
+                "h": 17
+            },
+            "sourceSize": {
+                "w": 33,
+                "h": 17
+            },
+            "rotated": false,
+            "trimed": false
+        },
         "purstart.png": {
             "frame": {
-                "x": 234,
-                "y": 1075,
+                "x": 1376,
+                "y": 1359,
                 "w": 21,
                 "h": 21,
                 "idx": 0
@@ -1451,8 +2018,8 @@
         },
         "bluestart.png": {
             "frame": {
-                "x": 0,
-                "y": 338,
+                "x": 1272,
+                "y": 1188,
                 "w": 22,
                 "h": 20,
                 "idx": 0
@@ -1470,10 +2037,31 @@
             "rotated": false,
             "trimed": false
         },
+        "graystart.png": {
+            "frame": {
+                "x": 0,
+                "y": 1270,
+                "w": 21,
+                "h": 20,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 21,
+                "h": 20
+            },
+            "sourceSize": {
+                "w": 21,
+                "h": 20
+            },
+            "rotated": false,
+            "trimed": false
+        },
         "redstart.png": {
             "frame": {
-                "x": 24,
-                "y": 338,
+                "x": 23,
+                "y": 1270,
                 "w": 21,
                 "h": 20,
                 "idx": 0
@@ -1493,8 +2081,8 @@
         },
         "addIcon.png": {
             "frame": {
-                "x": 1093,
-                "y": 853,
+                "x": 1381,
+                "y": 719,
                 "w": 20,
                 "h": 21,
                 "idx": 0
@@ -1508,27 +2096,6 @@
             "sourceSize": {
                 "w": 20,
                 "h": 21
-            },
-            "rotated": false,
-            "trimed": false
-        },
-        "graystart.png": {
-            "frame": {
-                "x": 47,
-                "y": 338,
-                "w": 21,
-                "h": 20,
-                "idx": 0
-            },
-            "spriteSourceSize": {
-                "x": 0,
-                "y": 0,
-                "w": 21,
-                "h": 20
-            },
-            "sourceSize": {
-                "w": 21,
-                "h": 20
             },
             "rotated": false,
             "trimed": false
